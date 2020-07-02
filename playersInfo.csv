@@ -1,0 +1,962 @@
+playerId,first_name,last_name,shirtNum,position,positionInfo,teamId,teamName,nationalTeamId,nationalTeamName,birthDate
+133868.0,Max,Aarons,2.0,D,Right Full Back,14.0,Norwich City,GB-ENG,England,4 January 2000
+163745.0,Abdul Rahman,Baba,18.0,D,Left Full Back,618.0,Mallorca (previousTeam),GH,Ghana,2 July 1994
+136935.0,Tammy,Abraham,18.0,F,Centre Striker,2.0,Aston Villa (previousTeam),GB-ENG,England,2 October 1997
+10050.0,Adam,Smith,15.0,D,Right Full Back,127.0,Bournemouth,GB-ENG,England,29 April 1991
+161456.0,Che,Adams,10.0,F,Centre Striker,20.0,Southampton,GB-ENG,England,13 July 1996
+23097.0,Dennis,Adeniran,35.0,M,Centre Central Midfielder,7.0,Everton,GB-ENG,England,2 January 1999
+180189.0,Albert,Adomah,14.0,M,Left/Right Winger,46.0,Cardiff City (previousTeam),GH,Ghana,13 December 1987
+161346.0,Adrián,San Miguel del Castillo,13.0,G,Goalkeeper,10.0,Liverpool,ES,Spain,3 January 1987
+154374.0,Adrien Sebastian,Perruchet Silva,15.0,M,Centre Central Midfielder,202.0,Monaco,PT,Portugal,15 March 1989
+162026.0,Benik,Afobe,40.0,F,Centre Striker,132.0,Bristol City,CD,The Democratic Republic Of Congo,12 February 1993
+6009.0,Sergio,Agüero,10.0,F,Centre Striker,11.0,Manchester City,AR,Argentina,2 June 1988
+167003.0,Daniel,Agyei,23.0,F,Centre Striker,172.0,Oxford United,GB-ENG,England,1 June 1997
+93876.0,Soufyan,Ahannach,,F,Left Winger,587.0,Sparta Rotterdam (previousTeam),NL,Netherlands,9 September 1995
+50119.0,Ahmed Eissa,El Mohamady Abdel Fattah,27.0,D,Right Full Back,2.0,Aston Villa,EG,Egypt,9 September 1987
+161559.0,Albian,Ajeti,27.0,F,Centre Striker,25.0,West Ham United,CH,Switzerland,26 February 1997
+47172.0,Nathan,Aké,5.0,D,Left/Centre Central Defender,127.0,Bournemouth,NL,Netherlands,18 February 1995
+160330.0,Alberto,Moreno,18.0,D,Left Full Back,253.0,Villarreal,ES,Spain,5 July 1992
+13981.0,Marc,Albrighton,11.0,M,Left/Right Winger,26.0,Leicester City,GB-ENG,England,18 November 1989
+20234.0,Toby,Alderweireld,4.0,D,Centre/Right Central Defender,21.0,Tottenham Hotspur,BE,Belgium,2 March 1989
+54951.0,Aleix,García,23.0,M,Centre Central Midfielder,504.0,Girona (previousTeam),ES,Spain,28 June 1997
+22183.0,Trent,Alexander-Arnold,66.0,D,Right Full Back,10.0,Liverpool,GB-ENG,England,7 October 1998
+145272.0,Abd-Al-Ali Morakinyo Olaposi,Koiki,29.0,D,Defender,24.0,Swindon Town,GB-ENG,England,22 August 1999
+133131.0,Alisson,Ramses Becker,1.0,G,Goalkeeper,10.0,Liverpool,BR,Brazil,2 October 1992
+133679.0,Allan,Rodrigues de Souza,28.0,M,Centre Central Midfielder,84.0,Eintracht Frankfurt,BR,Brazil,3 March 1997
+154335.0,Miguel,Almirón,24.0,M,Left/Centre/Right Second Striker,23.0,Newcastle United,PY,Paraguay,10 February 1994
+35018.0,Marcos,Alonso,3.0,D,Left Full Back,4.0,Chelsea,ES,Spain,28 December 1990
+35149.0,Steven,Alzate,46.0,F,Centre Striker,131.0,Brighton and Hove Albion (previousTeam),CO,Colombia,8 September 1998
+180157.0,Ibrahim,Amadou,23.0,M,Centre Central Midfielder,502.0,Leganés,FR,France,6 April 1993
+23152.0,Daniel,Amartey,,M,Midfielder,26.0,Leicester City,GH,Ghana,21 December 1994
+160068.0,Luke,Amos,8.0,M,Centre Central Midfielder,17.0,Queens Park Rangers,GB-ENG,England,23 February 1997
+162326.0,Ethan,Ampadu,26.0,D,Centre Central Defender,498.0,RB Leipzig,GB-WLS,Wales,14 September 2000
+138458.0,Joseph,Anang,49.0,G,Goalkeeper,25.0,West Ham United,GB-ENG,England,8 June 2000
+163811.0,Florin,Andone,23.0,F,Striker,61.0,Galatasaray,RO,Romania,11 April 1993
+159715.0,André Filipe,Tavares Gomes,21.0,M,Centre Central Midfielder,7.0,Everton,PT,Portugal,30 July 1993
+115748.0,Andreas Hugo,Hoelgebaum Pereira,11.0,M,Centre Attacking Midfielder,118.0,Valencia CF (previousTeam),BR,Brazil,1 January 1996
+180424.0,Jose Angel,Esmoris Tasende,3.0,D,Left Full Back,498.0,RB Leipzig,ES,Spain,4 January 1997
+134740.0,Faustino,Anjorin,55.0,M,Centre Central Midfielder,4.0,Chelsea,GB-ENG,England,23 November 2001
+12067.0,Michail,Antonio,7.0,M,Left/Centre/Right Second Striker,19.0,Sheffield Wednesday,GB-ENG,England,28 March 1990
+154719.0,Cameron,Archer,51.0,F,Centre Striker,2.0,Aston Villa,GB-ENG,England,9 December 2001
+166631.0,Archie,Davies,,D,Defender,131.0,Brighton and Hove Albion (previousTeam),GB-ENG,England,7 October 1998
+130310.0,Stuart,Armstrong,17.0,M,Left Winger,20.0,Southampton,GB-SCT,Scotland,30 March 1992
+50142.0,Marko,Arnautovic,7.0,F,Left/Right Second Striker,25.0,West Ham United (previousTeam),AT,Austria,19 April 1989
+135192.0,Kepa,Arrizabalaga,1.0,G,Goalkeeper,4.0,Chelsea,ES,Spain,3 October 1994
+161408.0,Harry,Arter,18.0,M,Centre Central Midfielder,34.0,Fulham,IE,Ireland,28 December 1989
+136532.0,Daniel,Arzani,14.0,M,Winger,53.0,Celtic,AU,Australia,4 January 1999
+180271.0,Benny,Ashley-Seal,,F,Centre Striker,120.0,Accrington Stanley,GB-ENG,England,21 November 1998
+22170.0,Daniel,Atherton,,G,Goalkeeper,10.0,Liverpool (previousTeam),GB-ENG,England,18 December 1999
+47189.0,Christian,Atsu,30.0,M,Left/Right Winger,23.0,Newcastle United,GH,Ghana,10 January 1992
+94217.0,Pierre-Emerick,Aubameyang,14.0,F,Centre Striker,1.0,Arsenal,GA,Gabon,18 June 1989
+53036.0,Serge,Aurier,24.0,D,Right Full Back,21.0,Tottenham Hotspur,CI,Cote D'Ivoire,24 December 1992
+161994.0,Charlie,Austin,15.0,F,Centre Striker,36.0,West Bromwich Albion,GB-ENG,England,5 July 1989
+160688.0,Jordan,Ayew,9.0,F,Centre Striker,6.0,Crystal Palace,GH,Ghana,11 September 1991
+6280.0,César,Azpilicueta,28.0,D,Left/Right Full Back,4.0,Chelsea,ES,Spain,28 August 1989
+180847.0,Daniel,Bachmann,,G,Goalkeeper,33.0,Watford,AT,Austria,9 July 1994
+90786.0,Owen,Bailey,,M,Midfielder,23.0,Newcastle United (previousTeam),GB-ENG,England,22 January 1999
+43062.0,Eric,Bailly,,D,Centre Central Defender,12.0,Manchester United,CI,Cote D'Ivoire,12 April 1994
+4600.0,Leighton,Baines,3.0,D,Left Full Back,7.0,Everton,GB-ENG,England,11 December 1984
+135764.0,Tiemoué,Bakayoko,14.0,M,Centre Defensive Midfielder,64.0,Milan (previousTeam),FR,France,17 August 1994
+145101.0,Lewis,Baker,16.0,M,Centre Central Midfielder,40.0,Reading,GB-ENG,England,25 April 1995
+132926.0,Fabián,Balbuena,4.0,D,Centre Central Defender,25.0,West Ham United,PY,Paraguay,23 August 1991
+53174.0,George,Baldock,,D,Defender,18.0,Sheffield United,GB-ENG,England,9 March 1993
+139685.0,Folarin,Balogun,38.0,F,Forward,1.0,Arsenal,GB-ENG,England,3 July 2001
+163175.0,Tudor,Baluta,28.0,D,Centre Central Defender,131.0,Brighton and Hove Albion (previousTeam),RO,Romania,27 March 1999
+154431.0,Beni,Baningime,14.0,M,Centre Defensive Midfielder,39.0,Wigan Athletic (previousTeam),CD,The Democratic Republic Of Congo,9 September 1998
+180213.0,Scott,Banks,,M,Centre/Right Attacking Midfielder,6.0,Crystal Palace (previousTeam),GB-SCT,Scotland,26 September 2001
+160918.0,Ben,Barclay,16.0,D,Centre Central Defender,120.0,Accrington Stanley,GB-ENG,England,7 October 1996
+51275.0,Phil,Bardsley,26.0,D,Right Full Back,43.0,Burnley,GB-SCT,Scotland,28 June 1985
+93088.0,Ross,Barkley,8.0,M,Centre Attacking Midfielder,4.0,Chelsea,GB-ENG,England,5 December 1993
+10314.0,Ashley,Barnes,10.0,F,Centre Striker,43.0,Burnley,GB-ENG,England,30 October 1989
+181611.0,Antonio,Barreca,23.0,D,Left Full Back,23.0,Newcastle United (previousTeam),IT,Italy,18 March 1995
+172666.0,Mason,Barrett,41.0,D,Central Defender,33.0,Watford,GB-ENG,England,24 September 1999
+15123.0,Chris,Basham,6.0,D,Centre Central Defender,18.0,Sheffield United,GB-ENG,England,20 July 1988
+154433.0,Michy,Batshuayi,23.0,F,Centre Striker,6.0,Crystal Palace (previousTeam),BE,Belgium,2 October 1993
+154298.0,Danny,Batth,6.0,D,Centre Central Defender,42.0,Stoke City,GB-ENG,England,21 September 1990
+162259.0,Gavin,Bazunu,,G,Goalkeeper,11.0,Manchester City,IE,Ireland,20 February 2002
+170112.0,Jack,Bearne,81.0,M,Winger,10.0,Liverpool,GB-ENG,England,15 September 2001
+30517.0,Jan,Bednarek,35.0,D,Centre Central Defender,20.0,Southampton,PL,Poland,12 April 1996
+163781.0,Asmir,Begovic,1.0,G,Goalkeeper,238.0,FK Qarabag (previousTeam),BA,Bosnia And Herzegovina,20 June 1987
+13589.0,Héctor,Bellerín,3.0,D,Defender,33.0,Watford (previousTeam),ES,Spain,19 March 1995
+152907.0,Yohan,Benalouane,29.0,D,Centre Central Defender,15.0,Nottingham Forest,TN,Tunisia,28 March 1987
+180428.0,Filip,Benkovic,31.0,D,Centre Central Defender,132.0,Bristol City,HR,Croatia,13 July 1997
+180209.0,Ryan,Bennett,29.0,D,Centre Central Defender,26.0,Leicester City,GB-ENG,England,6 March 1990
+135355.0,Jayden,Bennetts,58.0,M,Midfielder,33.0,Watford (previousTeam),GB-ENG,England,26 June 2001
+179180.0,Josh,Benson,20.0,M,Midfielder,155.0,Grimsby Town,GB-ENG,England,5 December 1999
+179296.0,Nabil,Bentaleb,42.0,M,Central Midfielder,23.0,Newcastle United,DZ,Algeria,24 November 1994
+32114.0,Christian,Benteke,17.0,F,Centre Striker,6.0,Crystal Palace,BE,Belgium,3 December 1990
+180063.0,Sander,Berge,32.0,M,Centre Central Midfielder,18.0,Sheffield United,NO,Norway,14 February 1998
+180005.0,Steven,Bergwijn,23.0,F,Left/Right Winger,21.0,Tottenham Hotspur,NL,Netherlands,8 October 1997
+135648.0,Adrián,Bernabé,,M,Midfielder,11.0,Manchester City (previousTeam),ES,Spain,26 May 2001
+135245.0,Bernard,Anício Caldeira Duarte,20.0,F,Left Winger,7.0,Everton,BR,Brazil,8 September 1992
+139561.0,Bernardo,Fernandes da Silva Junior,3.0,D,Defender,131.0,Brighton and Hove Albion (previousTeam),BR,Brazil,14 May 1995
+175535.0,Bernardo,Costa Da Rosa,44.0,M,Midfielder,25.0,West Ham United,BR,Brazil,20 September 2000
+44030.0,Bernardo Mota,Veiga de Carvalho e Silva,20.0,M,Left/Centre Attacking Midfielder,11.0,Manchester City,PT,Portugal,10 August 1994
+40581.0,Ryan,Bertrand,21.0,D,Left Full Back,20.0,Southampton,GB-ENG,England,5 August 1989
+162023.0,Muhamed,Besic,27.0,M,Centre Defensive Midfielder,18.0,Sheffield United (previousTeam),BA,Bosnia And Herzegovina,10 September 1992
+160732.0,Philip,Billing,29.0,M,Centre Defensive Midfielder,127.0,Bournemouth,DK,Denmark,11 June 1996
+170279.0,Billy,Arce,30.0,M,Left Winger,697.0,Extremadura UD (previousTeam),EC,Ecuador,12 July 1998
+180124.0,Nathan,Bishop,,G,Goalkeeper,12.0,Manchester United,GB-ENG,England,15 October 1999
+162118.0,Yves,Bissouma,,M,Centre Central Midfielder,131.0,Brighton and Hove Albion (previousTeam),ML,Mali,30 August 1996
+43137.0,Birkir,Bjarnason,20.0,M,Left/Centre Central Midfielder,2.0,Aston Villa (previousTeam),IS,Iceland,27 May 1988
+43065.0,Joshua,Bohui,46.0,F,Winger,12.0,Manchester United (previousTeam),GB-ENG,England,3 March 1999
+138271.0,Tolaji,Bola,40.0,D,Left Full Back,1.0,Arsenal,GB-ENG,England,4 January 1999
+163795.0,Yannick,Bolasie,89.0,F,Left/Right Winger,204.0,Sporting Lisbon,CD,The Democratic Republic Of Congo,24 May 1989
+162034.0,Luke,Bolton,22.0,M,Winger,163.0,Luton Town (previousTeam),GB-ENG,England,7 October 1999
+129762.0,Willy,Boly,15.0,D,Centre Central Defender,38.0,Wolverhampton Wanderers,FR,France,3 February 1991
+180097.0,Gaëtan,Bong,6.0,D,Left Full Back,15.0,Nottingham Forest,CM,Cameroon,25 April 1988
+180206.0,Borja,González Tomás,19.0,F,Centre Striker,2.0,Aston Villa (previousTeam),ES,Spain,25 August 1992
+32256.0,Artur,Boruc,1.0,G,Goalkeeper,127.0,Bournemouth,PL,Poland,20 February 1980
+133548.0,Sofiane,Boufal,19.0,M,Left/Centre/Right Attacking Midfielder,324.0,Celta de Vigo (previousTeam),MA,Morocco,17 September 1993
+139035.0,Jamie,Bowden,,M,Midfielder,21.0,Tottenham Hotspur,GB-ENG,England,9 July 2001
+180212.0,Jarrod,Bowen,17.0,F,Centre Striker,25.0,West Ham United,GB-ENG,England,20 December 1996
+170109.0,Morgan,Boyes,77.0,D,Centre Central Defender,10.0,Liverpool,GB-WLS,Wales,22 April 2001
+180094.0,Brad,Smith,24.0,D,Left Full Back,46.0,Cardiff City,AU,Australia,9 April 1994
+42971.0,Robbie,Brady,12.0,M,Left Winger,43.0,Burnley,IE,Ireland,14 January 1992
+184277.0,Jarrad,Branthwaite,32.0,D,Centre Central Defender,7.0,Everton,GB-ENG,England,27 June 2002
+32539.0,Claudio,Bravo,1.0,G,Goalkeeper,11.0,Manchester City,CL,Chile,13 April 1983
+162011.0,James,Bree,26.0,D,Right Full Back,163.0,Luton Town (previousTeam),GB-ENG,England,11 December 1997
+175379.0,Rhian,Brewster,19.0,F,Centre Striker,45.0,Swansea City,GB-ENG,England,1 April 2000
+20252.0,Miguel,Britos,3.0,D,Left/Centre Central Defender,33.0,Watford (previousTeam),UY,Uruguay,17 July 1985
+181972.0,Armando,Broja,57.0,F,Centre Striker,4.0,Chelsea,AL,Albania,10 September 2001
+130553.0,David,Brooks,20.0,M,Left/Centre/Right Attacking Midfielder,127.0,Bournemouth,GB-WLS,Wales,8 July 1997
+180093.0,Josh,Brownhill,8.0,M,Centre Central Midfielder,43.0,Burnley,GB-ENG,England,19 December 1995
+10195.0,Bruno,Saltor Grau,2.0,D,Right Full Back,131.0,Brighton and Hove Albion (previousTeam),ES,Spain,1 October 1980
+180060.0,Bruno Miguel,Borges Fernandes,18.0,M,Left/Centre/Right Attacking Midfielder,12.0,Manchester United,PT,Portugal,8 September 1994
+162522.0,Bruno André,Cavaco Jordão,6.0,M,Centre Central Midfielder,38.0,Wolverhampton Wanderers,PT,Portugal,12 October 1998
+180279.0,Kean,Bryan,17.0,D,Centre Central Defender,27.0,Bolton Wanderers,GB-ENG,England,1 November 1996
+130624.0,Emiliano,Buendía,17.0,M,Left/Right Attacking Midfielder,14.0,Norwich City,AR,Argentina,25 December 1996
+160305.0,Marcin,Bulka,30.0,G,Goalkeeper,67.0,Paris Saint Germain,PL,Poland,4 October 1999
+18555.0,Mark,Bunn,31.0,G,Goalkeeper,2.0,Aston Villa (previousTeam),GB-ENG,England,16 November 1984
+135262.0,Dan,Burn,33.0,D,Centre Central Defender,39.0,Wigan Athletic (previousTeam),GB-ENG,England,9 May 1992
+31562.0,Robbie,Burton,41.0,M,Centre Central Midfielder,1.0,Arsenal,GB-WLS,Wales,26 December 1999
+184437.0,Rocky,Bushiri,,D,Defender,14.0,Norwich City,BE,Belgium,30 November 1999
+31260.0,Matt,Butcher,16.0,D,Centre Central Defender,197.0,Yeovil Town (previousTeam),GB-ENG,England,14 May 1997
+132982.0,David,Button,27.0,G,Goalkeeper,131.0,Brighton and Hove Albion,GB-ENG,England,27 February 1989
+137803.0,Oskar,Buur,59.0,D,Defender,38.0,Wolverhampton Wanderers,DK,Denmark,31 March 1998
+160643.0,Jack,Bycroft,,G,Goalkeeper,20.0,Southampton (previousTeam),GB-ENG,England,21 September 2001
+160495.0,Sam,Byram,3.0,D,Right Full Back,14.0,Norwich City,GB-ENG,England,16 September 1993
+47176.0,Willy,Caballero,13.0,G,Goalkeeper,4.0,Chelsea,AR,Argentina,28 September 1981
+166293.0,Gary,Cahill,24.0,D,Centre Central Defender,6.0,Crystal Palace,GB-ENG,England,19 December 1985
+140995.0,Jake,Cain,,M,Left/Right Winger,10.0,Liverpool,GB-ENG,England,2 September 2001
+14290.0,Callum,Wilson,13.0,F,Centre Striker,127.0,Bournemouth,GB-ENG,England,27 February 1992
+41062.0,Dominic,Calvert-Lewin,9.0,F,Left/Centre Second Striker,7.0,Everton,GB-ENG,England,16 March 1997
+106138.0,Víctor,Camarasa,10.0,M,Centre Central Midfielder,646.0,Alavés,ES,Spain,28 May 1994
+131485.0,Brennan,Camp,,D,Centre Central Defender,127.0,Bournemouth (previousTeam),GB-SCT,Scotland,12 October 2000
+179304.0,Leonardo,Campana,,F,Centre Striker,38.0,Wolverhampton Wanderers,EC,Ecuador,24 July 2000
+135550.0,Chem,Campbell,77.0,F,Right Winger,38.0,Wolverhampton Wanderers,GB-WLS,Wales,30 December 2002
+128570.0,Todd,Cantwell,36.0,M,Centre Central Midfielder,1013.0,Fortuna Sittard (previousTeam),GB-ENG,England,27 February 1998
+20262.0,Etienne,Capoue,29.0,M,Centre Defensive Midfielder,33.0,Watford,FR,France,11 July 1988
+131449.0,Guido,Carrillo,18.0,F,Centre Striker,502.0,Leganés,AR,Argentina,25 May 1991
+154414.0,Tom,Carroll,11.0,M,Centre Central Midfielder,2.0,Aston Villa (previousTeam),GB-ENG,England,28 May 1992
+166835.0,Samir,Carruthers,21.0,M,Left/Centre/Right Attacking Midfielder,136.0,Cambridge United,IE,Ireland,4 April 1993
+162000.0,Scott,Carson,33.0,G,Goalkeeper,11.0,Manchester City,GB-ENG,England,3 September 1985
+180051.0,Cameron,Carter-Vickers,18.0,D,Left/Centre Central Defender,163.0,Luton Town (previousTeam),US,United States,31 December 1997
+166708.0,Lewis,Cass,49.0,D,Centre Central Defender,23.0,Newcastle United (previousTeam),GB-ENG,England,27 February 2000
+15257.0,Craig,Cathcart,15.0,D,Centre Central Defender,33.0,Watford,GB-NIR,Northern Ireland,6 February 1989
+175420.0,Ivan,Cavaleiro,19.0,F,Left/Right Winger,34.0,Fulham,PT,Portugal,18 October 1993
+160682.0,Dani,Ceballos,8.0,M,Left/Centre/Right Attacking Midfielder,1.0,Arsenal,ES,Spain,7 August 1996
+18549.0,Petr,Cech,1.0,G,Goalkeeper,1.0,Arsenal (previousTeam),CZ,Czech Republic,20 May 1982
+180108.0,Cédric Ricardo,Alves Soares,17.0,D,Right Wing Back,1.0,Arsenal,PT,Portugal,31 August 1991
+162010.0,Trevoh,Chalobah,8.0,M,Centre Defensive Midfielder,159.0,Huddersfield Town,GB-ENG,England,5 July 1999
+135177.0,Calum,Chambers,5.0,D,Centre Central Defender,34.0,Fulham (previousTeam),GB-ENG,England,20 January 1995
+180129.0,James,Chester,12.0,D,Centre Central Defender,42.0,Stoke City,GB-WLS,Wales,23 January 1989
+163747.0,Javier,Hernández Balcázar,14.0,F,Centre Striker,108.0,Sevilla (previousTeam),MX,Mexico,1 June 1988
+20752.0,Ben,Chilwell,25.0,D,Full Back,159.0,Huddersfield Town (previousTeam),GB-ENG,England,21 December 1996
+155186.0,Pedro,Chirivella,,M,Centre Central Midfielder,10.0,Liverpool,ES,Spain,23 May 1997
+135370.0,Tahith,Chong,44.0,M,Left/Right Winger,12.0,Manchester United (previousTeam),NL,Netherlands,4 December 1999
+135757.0,Hamza,Choudhury,20.0,M,Centre Central Midfielder,26.0,Leicester City,GB-ENG,England,1 October 1997
+25607.0,Andreas,Christensen,3.0,D,Centre Central Defender,230.0,Borussia Mönchengladbach (previousTeam),DK,Denmark,10 April 1996
+100785.0,Isaac,Christie-Davies,,M,Midfielder,10.0,Liverpool (previousTeam),GB-WLS,Wales,18 October 1997
+179125.0,Dennis,Cirkin,,D,Left Full Back,21.0,Tottenham Hotspur,GB-ENG,England,6 April 2002
+144247.0,Mitchell,Clark,24.0,D,Centre Central Defender,175.0,Port Vale,GB-WLS,Wales,13 March 1999
+160852.0,Matthew,Clarke,16.0,D,Centre Central Defender,28.0,Derby County,GB-ENG,England,22 September 1996
+166390.0,Leighton,Clarkson,,M,Midfielder,10.0,Liverpool,GB-ENG,England,19 October 2001
+163235.0,Jordy,Clasie,20.0,M,Centre Defensive Midfielder,78.0,AZ,NL,Netherlands,27 June 1991
+170110.0,Thomas,Clayton,65.0,D,Centre Central Defender,10.0,Liverpool,GB-SCT,Scotland,16 December 2000
+44032.0,Tom,Cleverley,8.0,M,Centre Central Midfielder,33.0,Watford,GB-ENG,England,12 August 1989
+172720.0,Nathaniel,Clyne,23.0,D,Right Full Back,127.0,Bournemouth (previousTeam),GB-ENG,England,5 April 1991
+20418.0,Conor,Coady,16.0,D,Centre Central Defender,38.0,Wolverhampton Wanderers,GB-ENG,England,25 February 1993
+166633.0,Alex,Cochrane,50.0,D,Left Full Back,131.0,Brighton and Hove Albion,GB-ENG,England,21 April 2000
+94282.0,Jack,Colback,6.0,M,Centre Central Midfielder,15.0,Nottingham Forest (previousTeam),GB-ENG,England,24 October 1989
+94007.0,Séamus,Coleman,,D,Right Full Back,7.0,Everton (previousTeam),IE,Ireland,11 October 1988
+136321.0,Will,Collar,58.0,M,Centre Defensive Midfielder,131.0,Brighton and Hove Albion (previousTeam),GB-ENG,England,3 February 1997
+154766.0,Aaron,Connolly,18.0,F,Centre Striker,163.0,Luton Town (previousTeam),IE,Ireland,28 January 2000
+180378.0,Theo,Corbeanu,,F,Right Winger,38.0,Wolverhampton Wanderers,CA,Canada,17 May 2002
+49709.0,Jack,Cork,4.0,M,Centre Central Midfielder,43.0,Burnley,GB-ENG,England,25 June 1989
+161061.0,Paul,Coutts,15.0,M,Centre Central Midfielder,151.0,Fleetwood Town,GB-SCT,Scotland,22 July 1988
+175559.0,Conor,Coventry,20.0,M,Midfielder,162.0,Lincoln City,IE,Ireland,25 March 2000
+160085.0,Martin,Cranie,2.0,D,Centre Central Defender,163.0,Luton Town,GB-ENG,England,26 September 1986
+14131.0,Aaron,Cresswell,3.0,D,Left Full Back,25.0,West Ham United,GB-ENG,England,15 December 1989
+172147.0,Kane,Crichlow,,M,Centre Attacking Midfielder,33.0,Watford (previousTeam),BM,Bermuda,21 August 2000
+10206.0,Andrew,Crofts,48.0,M,Centre Central Midfielder,131.0,Brighton and Hove Albion (previousTeam),GB-WLS,Wales,29 May 1984
+154344.0,Peter,Crouch,15.0,F,Centre Striker,43.0,Burnley (previousTeam),GB-ENG,England,30 January 1981
+166879.0,Rhu-endly,Martina,,D,Defender,7.0,Everton,CW,Curacao,25 September 1989
+137271.0,Josh,Cullen,24.0,M,Centre Central Midfielder,31.0,Charlton Athletic,IE,Ireland,7 April 1996
+21990.0,Jamie,Cumming,31.0,G,Goalkeeper,4.0,Chelsea,GB-ENG,England,4 September 1999
+161474.0,Luke,Cundle,68.0,M,Centre Central Midfielder,38.0,Wolverhampton Wanderers,GB-ENG,England,26 April 2002
+175596.0,Patrick,Cutrone,63.0,F,Centre Striker,90.0,Fiorentina,IT,Italy,3 January 1998
+175538.0,Renat,Dadashov,,F,Forward,38.0,Wolverhampton Wanderers,AZ,Azerbaijan,17 May 1999
+94446.0,Pontus,Dahlberg,,G,Goalkeeper,33.0,Watford (previousTeam),SE,Sweden,21 January 1999
+166331.0,Sam,Dalby,40.0,F,Forward,33.0,Watford,GB-ENG,England,7 December 1999
+161440.0,Vontae,Daley-Campbell,,D,Right Full Back,26.0,Leicester City,GB-ENG,England,2 April 2001
+180285.0,James,Daly,17.0,F,Centre Striker,133.0,Bristol Rovers,GB-ENG,England,12 January 2000
+180050.0,Daniel,Castelo Podence,10.0,M,Left/Right Winger,38.0,Wolverhampton Wanderers,PT,Portugal,21 October 1995
+10048.0,Charlie,Daniels,11.0,D,Left Full Back,127.0,Bournemouth,GB-ENG,England,7 September 1986
+162295.0,Danilo Luiz,da Silva,13.0,D,Right Full Back,62.0,Juventus,BR,Brazil,15 July 1991
+160781.0,Arnaut,Danjuma Groeneveld,14.0,F,Left/Right Winger,127.0,Bournemouth,NL,Netherlands,31 January 1997
+51513.0,Scott,Dann,,D,Centre Central Defender,6.0,Crystal Palace (previousTeam),GB-ENG,England,14 February 1987
+162156.0,Kevin,Danso,38.0,D,Centre Central Defender,20.0,Southampton,AT,Austria,19 September 1998
+14910.0,Karl,Darlow,1.0,G,Goalkeeper,15.0,Nottingham Forest,GB-ENG,England,8 October 1990
+171196.0,Matteo,Darmian,36.0,D,Left/Right Full Back,356.0,Parma,IT,Italy,2 December 1989
+162019.0,David,Luiz Moreira Marinho,23.0,D,Centre Central Defender,1.0,Arsenal,BR,Brazil,22 April 1987
+5745.0,David,Silva,21.0,M,Left/Centre/Right Attacking Midfielder,11.0,Manchester City,ES,Spain,8 January 1986
+166640.0,Jordan,Davies,51.0,M,Centre Central Midfielder,131.0,Brighton and Hove Albion (previousTeam),GB-WLS,Wales,18 August 1998
+18566.0,Keinan,Davis,39.0,F,Centre Striker,2.0,Aston Villa,GB-ENG,England,13 February 1998
+160032.0,Craig,Dawson,4.0,D,Centre Central Defender,33.0,Watford,GB-ENG,England,6 May 1990
+160572.0,Jonathan,De Bie,60.0,G,Goalkeeper,21.0,Tottenham Hotspur (previousTeam),BE,Belgium,28 May 2000
+19595.0,Kevin,De Bruyne,17.0,M,Left/Centre/Right Attacking Midfielder,11.0,Manchester City,BE,Belgium,28 June 1991
+6011.0,David,de Gea,1.0,G,Goalkeeper,12.0,Manchester United,ES,Spain,7 November 1990
+12507.0,Troy,Deeney,9.0,F,Centre Striker,33.0,Watford,GB-ENG,England,29 June 1988
+163566.0,Jermain,Defoe,9.0,F,Centre Striker,351.0,Rangers,GB-ENG,England,7 October 1982
+32079.0,Steven,Defour,16.0,M,Centre Central Midfielder,43.0,Burnley (previousTeam),BE,Belgium,15 April 1988
+59113.0,Bamidele,Alli,14.0,M,Central Midfielder,167.0,MK Dons (previousTeam),GB-ENG,England,11 April 1996
+160457.0,Fabian,Delph,8.0,M,Left/Centre Central Midfielder,7.0,Everton,GB-ENG,England,21 November 1989
+160625.0,Mousa,Dembélé,8.0,M,Central Midfielder,1528.0,Guangzhou R&F,BE,Belgium,16 July 1987
+136218.0,Jason,Denayer,5.0,D,Centre Central Defender,98.0,Lyon,BE,Belgium,28 June 1995
+160025.0,Leander,Dendoncker,32.0,M,Centre Central Midfielder,38.0,Wolverhampton Wanderers,BE,Belgium,15 April 1995
+160841.0,William,Dennis,40.0,G,Goalkeeper,127.0,Bournemouth (previousTeam),GB-ENG,England,10 July 2000
+129752.0,Gerard,Deulofeu,7.0,F,Left/Right Winger,33.0,Watford,ES,Spain,13 March 1994
+179968.0,Kiernan,Dewsbury-Hall,15.0,M,Left/Centre Central Midfielder,44.0,Blackpool,GB-ENG,England,6 September 1998
+100779.0,Fousseni,Diabaté,,M,Midfielder,26.0,Leicester City (previousTeam),ML,Mali,18 October 1995
+31075.0,Mohamed,Diamé,10.0,M,Centre Attacking Midfielder,23.0,Newcastle United (previousTeam),SN,Senegal,14 June 1987
+162102.0,Grady,Diangana,29.0,M,Left/Centre/Right Attacking Midfielder,36.0,West Bromwich Albion,GB-ENG,England,19 April 1998
+144675.0,Brahim,Díaz,21.0,F,Left/Centre/Right Winger,68.0,Real Madrid,ES,Spain,3 August 1999
+14109.0,Eric,Dier,15.0,M,Centre Defensive Midfielder,21.0,Tottenham Hotspur,GB-ENG,England,15 January 1994
+134236.0,Lucas,Digne,12.0,D,Left Full Back,7.0,Everton,FR,France,20 July 1993
+129751.0,José Diogo,Dalot Teixeira,20.0,D,Right Full Back,12.0,Manchester United,PT,Portugal,18 March 1999
+131743.0,Diogo José,Teixeira da Silva,18.0,F,Centre Striker,38.0,Wolverhampton Wanderers,PT,Portugal,4 December 1996
+162131.0,Alpha Richard,Dionkou,88.0,D,Left Full Back,11.0,Manchester City,SN,Senegal,10 October 2001
+129879.0,Issa,Diop,23.0,D,Centre Central Defender,25.0,West Ham United,FR,France,9 January 1997
+170111.0,Elijah,Dixon-Bonner,69.0,M,Central Midfielder,10.0,Liverpool,GB-ENG,England,1 January 2001
+159638.0,Moussa,Djenepo,12.0,M,Left/Right Winger,20.0,Southampton,ML,Mali,15 June 1998
+180204.0,Mihai-Alexandru,Dobre,25.0,M,Right Winger,39.0,Wigan Athletic,RO,Romania,30 August 1998
+5873.0,Matt,Doherty,2.0,D,Left/Right Full Back,38.0,Wolverhampton Wanderers,IE,Ireland,16 January 1992
+180848.0,Domingos,Quina,,M,Midfielder,33.0,Watford,PT,Portugal,18 November 1999
+106028.0,Abdoulaye,Doucouré,16.0,M,Centre Central Midfielder,629.0,Granada CF,FR,France,1 January 1993
+160683.0,Douglas Luiz,Soares de Paulo,6.0,M,Centre Central Midfielder,2.0,Aston Villa,BR,Brazil,9 May 1998
+172648.0,Kieran,Dowell,30.0,M,Left/Centre/Right Attacking Midfielder,39.0,Wigan Athletic,GB-ENG,England,10 October 1997
+51799.0,Tommy,Doyle,69.0,M,Midfielder,11.0,Manchester City,GB-ENG,England,17 October 2001
+160813.0,Jake,Doyle-Hayes,21.0,M,Centre Central Midfielder,138.0,Cheltenham Town,IE,Ireland,30 December 1998
+132212.0,Luke,Dreher,28.0,M,Centre Central Midfielder,6.0,Crystal Palace (previousTeam),GB-ENG,England,27 November 1998
+175380.0,Daniel,Drinkwater,4.0,M,Centre Central Midfielder,2.0,Aston Villa,GB-ENG,England,5 March 1990
+175397.0,Anthony,Driscoll-Glennon,33.0,D,Left Full Back,155.0,Grimsby Town,GB-ENG,England,26 November 1999
+159741.0,Josip,Drmic,20.0,F,Centre Striker,14.0,Norwich City,CH,Switzerland,8 August 1992
+129737.0,Martin,Dubravka,1.0,G,Goalkeeper,23.0,Newcastle United,SK,Slovakia,15 January 1989
+175656.0,Ondrej,Duda,25.0,M,Centre Attacking Midfielder,14.0,Norwich City,SK,Slovakia,5 December 1994
+33468.0,Shane,Duffy,4.0,D,Left/Centre Central Defender,131.0,Brighton and Hove Albion,IE,Ireland,1 January 1992
+176689.0,Paul,Dummett,,D,Defender,152.0,Gateshead,GB-WLS,Wales,26 September 1991
+171019.0,Bobby,Duncan,26.0,F,Centre Striker,90.0,Fiorentina,GB-ENG,England,26 June 2001
+13742.0,Lewis,Dunk,30.0,D,Defender,132.0,Bristol City (previousTeam),GB-ENG,England,21 November 1991
+166888.0,Jimmy,Dunne,12.0,D,Central Defender,151.0,Fleetwood Town (previousTeam),IE,Ireland,19 October 1997
+160515.0,Jake,Eastwood,25.0,G,Goalkeeper,180.0,Scunthorpe United (previousTeam),GB-ENG,England,3 October 1996
+47186.0,Ederson,Santana de Moraes,31.0,G,Goalkeeper,11.0,Manchester City,BR,Brazil,17 August 1993
+133133.0,John,Egan,12.0,D,Centre Central Defender,18.0,Sheffield United,IE,Ireland,20 October 1992
+160034.0,Anwar,El Ghazi,21.0,M,Left/Right Winger,2.0,Aston Villa,NL,Netherlands,3 May 1995
+162033.0,Callum,Elder,26.0,D,Left Full Back,41.0,Hull City,AU,Australia,27 January 1995
+41696.0,Robert,Elliot,,G,Goalkeeper,23.0,Newcastle United,IE,Ireland,30 April 1986
+162126.0,Harvey,Elliott,67.0,M,Centre/Right Attacking Midfielder,10.0,Liverpool,GB-ENG,England,4 April 2003
+159922.0,Tommy,Elphick,4.0,D,Centre Central Defender,159.0,Huddersfield Town,GB-ENG,England,7 September 1987
+94140.0,Emerson,Palmieri dos Santos,33.0,D,Left Full Back,4.0,Chelsea,IT,Italy,3 August 1994
+160488.0,Björn,Engels,22.0,D,Centre Central Defender,2.0,Aston Villa,BE,Belgium,15 September 1994
+161047.0,Niall,Ennis,31.0,F,Forward,147.0,Doncaster Rovers,GB-ENG,England,20 May 1999
+162007.0,Bright,Enobakhare,25.0,F,Centre Striker,39.0,Wigan Athletic (previousTeam),GB-ENG,England,8 February 1998
+180025.0,Christian,Eriksen,24.0,M,Centre Attacking Midfielder,241.0,Internazionale,DK,Denmark,14 February 1992
+129750.0,Jonny,Evans,6.0,D,Centre Central Defender,26.0,Leicester City,GB-NIR,Northern Ireland,3 January 1988
+180308.0,Timothy,Eyoma,4.0,D,Centre Central Defender,162.0,Lincoln City,GB-ENG,England,29 January 2000
+129917.0,Lukasz,Fabianski,1.0,G,Goalkeeper,25.0,West Ham United,PL,Poland,18 April 1985
+129759.0,Fabio Henrique,Tavares,3.0,M,Centre Defensive Midfielder,10.0,Liverpool,BR,Brazil,23 October 1993
+153033.0,Cesc,Fàbregas,4.0,M,Centre Central Midfielder,202.0,Monaco,ES,Spain,4 May 1987
+181979.0,Malachi,Fagan-Walcott,64.0,D,Defender,21.0,Tottenham Hotspur,GB-ENG,England,11 March 2002
+184436.0,Ralf,Fährmann,21.0,G,Goalkeeper,14.0,Norwich City,DE,Germany,27 September 1988
+166196.0,Akin,Famewo,43.0,D,Centre Central Defender,14.0,Norwich City (previousTeam),GB-ENG,England,9 November 1998
+132927.0,Felipe Anderson,Pereira Gomes,8.0,M,Left/Centre/Right Attacking Midfielder,25.0,West Ham United,BR,Brazil,15 April 1993
+6727.0,Marouane,Fellaini,27.0,M,Centre Attacking Midfielder,12.0,Manchester United (previousTeam),BE,Belgium,22 November 1987
+172481.0,Edimilson,Fernandes,20.0,M,Central Midfielder,326.0,1. FSV Mainz 05,CH,Switzerland,15 April 1996
+135251.0,Federico,Fernández,18.0,D,Centre Central Defender,23.0,Newcastle United,AR,Argentina,21 February 1989
+6723.0,Fernando,Luiz Rosa,25.0,M,Centre Defensive Midfielder,11.0,Manchester City,BR,Brazil,4 May 1985
+160568.0,Ethan,Fitzhugh,,M,Midfielder,26.0,Leicester City (previousTeam),GB-ENG,England,27 November 2002
+137267.0,Jake,Flannigan,34.0,M,Midfielder,134.0,Burton Albion (previousTeam),GB-ENG,England,2 February 1996
+162146.0,Flávio,Silva Cristóvão,66.0,D,Centre Central Defender,38.0,Wolverhampton Wanderers (previousTeam),PT,Portugal,23 May 1997
+30926.0,John,Fleck,4.0,M,Centre Central Midfielder,18.0,Sheffield United,GB-SCT,Scotland,24 August 1991
+41635.0,Phil,Foden,47.0,M,Centre/Right Attacking Midfielder,11.0,Manchester City,GB-ENG,England,28 May 2000
+159637.0,Pablo,Fornals,18.0,M,Centre Central Midfielder,25.0,West Ham United,ES,Spain,22 February 1996
+109971.0,Fraser,Forster,67.0,G,Goalkeeper,53.0,Celtic,GB-ENG,England,17 March 1988
+130759.0,Ben,Foster,26.0,G,Goalkeeper,33.0,Watford,GB-ENG,England,3 April 1983
+135247.0,Timothy,Fosu-Mensah,21.0,D,Left/Centre/Right Central Defender,34.0,Fulham (previousTeam),NL,Netherlands,2 January 1998
+172462.0,Dimitri,Foulquier,2.0,D,Right Full Back,629.0,Granada CF,GP,Guadeloupe,23 March 1993
+53032.0,Juan,Foyth,21.0,D,Centre Central Defender,21.0,Tottenham Hotspur,AR,Argentina,12 January 1998
+10045.0,Simon,Francis,2.0,D,Centre/Right Central Defender,127.0,Bournemouth,GB-ENG,England,16 February 1985
+131647.0,Marcel,Franke,,D,Defender,14.0,Norwich City (previousTeam),DE,Germany,5 April 1993
+32213.0,Ryan,Fraser,24.0,M,Left/Right Winger,127.0,Bournemouth (previousTeam),GB-SCT,Scotland,24 February 1994
+130050.0,Frederico,Rodrigues de Paula Santos,17.0,M,Centre Central Midfielder,12.0,Manchester United,BR,Brazil,5 March 1993
+129761.0,Ryan,Fredericks,24.0,D,Right Full Back,25.0,West Ham United,GB-ENG,England,10 October 1992
+19444.0,Christian,Fuchs,28.0,D,Left Full Back,26.0,Leicester City,AT,Austria,7 April 1986
+42972.0,Manolo,Gabbiadini,20.0,F,Centre/Right Second Striker,20.0,Southampton (previousTeam),IT,Italy,26 November 1991
+31068.0,Gabriel Fernando,de Jesus,9.0,F,Left/Centre/Right Second Striker,11.0,Manchester City,BR,Brazil,3 April 1997
+166789.0,Gabriel Teodoro,Martinelli Silva,,M,Midfielder,1.0,Arsenal,BR,Brazil,18 June 2001
+167240.0,Ethan,Galbraith,54.0,M,Centre Central Midfielder,12.0,Manchester United,GB-NIR,Northern Ireland,11 May 2001
+170108.0,Tony,Gallacher,54.0,D,Left/Right Full Back,10.0,Liverpool,GB-SCT,Scotland,23 July 1999
+179163.0,Conor,Gallagher,33.0,M,Centre Central Midfielder,45.0,Swansea City,GB-ENG,England,6 February 2000
+161098.0,Luke,Garbutt,29.0,D,Left Full Back,8.0,Ipswich Town,GB-ENG,England,21 May 1993
+144244.0,Eric,García,50.0,D,Centre Central Defender,11.0,Manchester City (previousTeam),ES,Spain,9 January 2001
+50617.0,James,Garner,37.0,M,Central Midfielder,12.0,Manchester United (previousTeam),GB-ENG,England,13 March 2001
+135117.0,Dwight,Gayle,16.0,F,Centre Striker,36.0,West Bromwich Albion,GB-ENG,England,17 October 1990
+52304.0,Paulo,Gazzaniga,22.0,G,Goalkeeper,21.0,Tottenham Hotspur,AR,Argentina,2 January 1992
+160893.0,Jean-Philippe,Gbamin,25.0,M,Centre Central Midfielder,7.0,Everton,CI,Cote D'Ivoire,25 September 1995
+179148.0,Gedson,Carvalho Fernandes,30.0,M,Centre Central Midfielder,21.0,Tottenham Hotspur,PT,Portugal,9 January 1999
+179948.0,Brooklyn,Genesini,,D,Right Full Back,127.0,Bournemouth,GB-ENG,England,12 December 2001
+180280.0,Anthony,Georgiou,16.0,M,Midfielder,27.0,Bolton Wanderers,CY,Cyprus,24 February 1997
+171018.0,Rachid,Ghezzal,18.0,F,Left/Right Winger,90.0,Fiorentina,DZ,Algeria,9 May 1992
+32012.0,Morgan,Gibbs-White,,M,Midfielder,38.0,Wolverhampton Wanderers,GB-ENG,England,27 January 2000
+134707.0,Ben,Gibson,14.0,D,Centre Central Defender,43.0,Burnley,GB-ENG,England,15 January 1993
+180294.0,Ryan,Giles,18.0,M,Left Winger,5.0,Coventry City,GB-ENG,England,26 January 2000
+140997.0,Charlie,Gilmour,43.0,M,Centre Defensive Midfielder,1.0,Arsenal (previousTeam),GB-SCT,Scotland,11 February 1999
+94221.0,Olivier,Giroud,18.0,F,Centre Striker,4.0,Chelsea,FR,France,30 September 1986
+57762.0,Paul,Gladon,25.0,F,Centre Striker,38.0,Wolverhampton Wanderers (previousTeam),NL,Netherlands,18 March 1992
+51314.0,Paul,Glatzel,,M,Centre Attacking Midfielder,10.0,Liverpool (previousTeam),GB-ENG,England,20 February 2001
+55835.0,Ben,Godfrey,4.0,M,Midfielder,182.0,Shrewsbury Town,GB-ENG,England,15 January 1998
+175461.0,Claudio,Gomes,,M,Midfielder,105.0,PSV,FR,France,23 July 2000
+19499.0,Joseph,Gomez,12.0,D,Left/Centre/Right Central Defender,10.0,Liverpool,GB-ENG,England,23 May 1997
+162570.0,Gonçalo Bento,Soares Cardoso,20.0,D,Centre Central Defender,25.0,West Ham United,PT,Portugal,21 October 2000
+167984.0,Mace,Goodridge,44.0,M,Centre Central Midfielder,43.0,Burnley,GB-ENG,England,13 September 1999
+135671.0,Anthony,Gordon,,F,Winger,7.0,Everton,GB-ENG,England,24 February 2001
+14287.0,Dan,Gosling,4.0,M,Centre/Right Central Midfielder,127.0,Bournemouth,GB-ENG,England,1 February 1990
+160481.0,Kamil,Grabara,1.0,G,Goalkeeper,159.0,Huddersfield Town (previousTeam),PL,Poland,8 January 1999
+166140.0,Lee,Grant,,G,Goalkeeper,12.0,Manchester United,GB-ENG,England,27 January 1983
+19453.0,Demarai,Gray,7.0,M,Left/Right Winger,26.0,Leicester City,GB-ENG,England,28 June 1996
+11653.0,Jack,Grealish,7.0,M,Winger,171.0,Notts County,GB-ENG,England,10 September 1995
+172459.0,Andre,Green,18.0,M,Left/Right Winger,31.0,Charlton Athletic,GB-ENG,England,26 July 1998
+141223.0,Mason,Greenwood,26.0,F,Centre Striker,12.0,Manchester United,GB-ENG,England,1 October 2001
+100759.0,Daniel,Grimshaw,32.0,G,Goalkeeper,11.0,Manchester City (previousTeam),GB-ENG,England,16 January 1998
+48182.0,Pascal,Groß,13.0,M,Centre Central Midfielder,131.0,Brighton and Hove Albion,DE,Germany,15 June 1991
+171023.0,Marko,Grujic,15.0,M,Centre Central Midfielder,316.0,Hertha BSC,RS,Serbia,13 April 1996
+129756.0,Vicente,Guaita,31.0,G,Goalkeeper,6.0,Crystal Palace,ES,Spain,10 January 1987
+30985.0,Jóhann,Gudmundsson,7.0,M,Left Winger,43.0,Burnley,IS,Iceland,27 October 1990
+131780.0,Matteo,Guendouzi,29.0,M,Centre Central Midfielder,1.0,Arsenal,FR,France,14 April 1999
+162322.0,Idrissa,Gueye,27.0,M,Centre Defensive Midfielder,67.0,Paris Saint Germain,SN,Senegal,26 September 1989
+154432.0,Frederic,Guilbert,,D,Right Full Back,2.0,Aston Villa (previousTeam),FR,France,24 December 1994
+26147.0,Ilkay,Gündogan,8.0,M,Centre Central Midfielder,11.0,Manchester City,DE,Germany,24 October 1990
+131773.0,Angus,Gunn,28.0,G,Goalkeeper,20.0,Southampton,GB-ENG,England,22 January 1996
+166635.0,Peter,Gwargis,,M,Midfielder,131.0,Brighton and Hove Albion,SE,Sweden,4 September 2000
+172746.0,Viktor,Gyökeres,42.0,F,Centre Striker,131.0,Brighton and Hove Albion (previousTeam),SE,Sweden,4 June 1998
+170341.0,Sead,Haksabanovic,20.0,M,Left/Right Winger,496.0,Málaga (previousTeam),ME,Montenegro,4 May 1999
+160522.0,Sébastien,Haller,22.0,F,Centre Striker,25.0,West Ham United,FR,France,22 June 1994
+175383.0,Ethan,Hamilton,18.0,M,Centre Central Midfielder,27.0,Bolton Wanderers,GB-SCT,Scotland,18 October 1998
+56726.0,Grant,Hanley,,D,Centre Central Defender,14.0,Norwich City,GB-SCT,Scotland,20 November 1991
+160648.0,Kornelius,Hansen,,M,Midfielder,20.0,Southampton (previousTeam),NO,Norway,6 May 2001
+172678.0,Joseph,Hardy,,F,Centre Striker,10.0,Liverpool,GB-ENG,England,26 September 1998
+144657.0,Nathan,Harker,29.0,G,Goalkeeper,23.0,Newcastle United (previousTeam),GB-ENG,England,5 November 1998
+161402.0,Harry,Wilson,22.0,M,Left/Right Winger,127.0,Bournemouth,GB-WLS,Wales,22 March 1997
+135118.0,Joe,Hart,20.0,G,Goalkeeper,43.0,Burnley (previousTeam),GB-ENG,England,19 April 1987
+162130.0,Taylor,Harwood-Bellis,72.0,D,Centre Central Defender,11.0,Manchester City,GB-ENG,England,30 January 2002
+166468.0,Kortney,Hause,,M,Midfielder,2.0,Aston Villa,GB-ENG,England,16 July 1995
+30667.0,Isaac,Hayden,14.0,M,Centre Central Midfielder,23.0,Newcastle United,GB-ENG,England,22 March 1995
+160772.0,Tom,Heaton,1.0,G,Goalkeeper,2.0,Aston Villa,GB-ENG,England,15 April 1986
+166741.0,Michael,Hector,3.0,D,Centre Central Defender,34.0,Fulham,JM,Jamaica,19 July 1992
+172982.0,Philip,Heise,19.0,D,Left Full Back,420.0,1. FC Nürnberg,DE,Germany,20 June 1991
+160107.0,Hélder Wander,Sousa de Azevedo e Costa,17.0,F,Left/Right Winger,9.0,Leeds United,PT,Portugal,12 January 1994
+162553.0,Tomer,Hemed,26.0,F,Centre Striker,31.0,Charlton Athletic,IL,Israel,2 May 1987
+160299.0,Stephen,Henderson,19.0,G,Goalkeeper,6.0,Crystal Palace,IE,Ireland,2 May 1988
+35017.0,Jeff,Hendrick,13.0,M,Centre Central Midfielder,43.0,Burnley (previousTeam),IE,Ireland,31 January 1992
+131816.0,Ben,Heneghan,6.0,D,Central Defender,44.0,Blackpool (previousTeam),GB-ENG,England,19 September 1993
+10652.0,Wayne,Hennessey,13.0,G,Goalkeeper,6.0,Crystal Palace,GB-WLS,Wales,24 January 1987
+155611.0,Dion,Henry,1.0,G,Goalkeeper,220.0,Maidstone United,GB-ENG,England,12 September 1997
+180321.0,Rushian,Hepburn-Murphy,,F,Forward,28.0,Derby County,GB-ENG,England,28 August 1998
+93960.0,Onel,Hernández,11.0,M,Left/Right Winger,14.0,Norwich City,CU,Cuba,1 February 1993
+160260.0,Ander,Herrera,21.0,M,Centre Central Midfielder,67.0,Paris Saint Germain,ES,Spain,14 August 1989
+166927.0,Jake,Hesketh,28.0,M,Centre Central Midfielder,162.0,Lincoln City,GB-ENG,England,27 March 1996
+15253.0,Heurelho,da Silva Gomes,1.0,G,Goalkeeper,33.0,Watford (previousTeam),BR,Brazil,15 February 1981
+52111.0,Mateusz,Hewelt,,G,Goalkeeper,7.0,Everton,PL,Poland,23 September 1996
+153072.0,Gonzalo,Higuaín,9.0,F,Centre Striker,4.0,Chelsea (previousTeam),AR,Argentina,10 December 1987
+170114.0,Thomas,Hill,99.0,F,Striker,10.0,Liverpool,GB-ENG,England,13 October 2002
+166332.0,Kaylen,Hinds,53.0,F,Forward,33.0,Watford (previousTeam),GB-ENG,England,28 January 1998
+161455.0,Wesley,Hoedt,,D,Centre Central Defender,20.0,Southampton,NL,Netherlands,6 March 1994
+144962.0,Ki-Jana,Hoever,51.0,D,Centre/Right Full Back,10.0,Liverpool,NL,Netherlands,18 January 2002
+180039.0,Scott,Hogan,40.0,F,Centre Striker,35.0,Birmingham City,IE,Ireland,13 April 1992
+31013.0,Rob,Holding,16.0,D,Centre Central Defender,1.0,Arsenal,GB-ENG,England,20 September 1995
+20255.0,José,Holebas,25.0,D,Left Full Back,33.0,Watford,GR,Greece,27 June 1984
+144313.0,Mason,Holgate,68.0,D,Centre Central Defender,36.0,West Bromwich Albion (previousTeam),GB-ENG,England,22 October 1996
+175441.0,Nathan,Holland,27.0,M,Midfielder,172.0,Oxford United,GB-ENG,England,19 June 1998
+154760.0,Ricky,Holmes,29.0,M,Left Winger,153.0,Gillingham,GB-ENG,England,19 June 1987
+160499.0,Nathaniel Shio,Hong Wan,,M,Midfielder,38.0,Wolverhampton Wanderers (previousTeam),GB-ENG,England,
+43135.0,Conor,Hourihane,14.0,M,Centre Central Midfielder,2.0,Aston Villa,IE,Ireland,2 February 1991
+52102.0,Callum,Hudson-Odoi,20.0,F,Left/Right Winger,4.0,Chelsea,GB-ENG,England,7 November 2000
+47195.0,Will,Hughes,19.0,M,Centre Central Midfielder,33.0,Watford,GB-ENG,England,17 April 1995
+160719.0,Jordan,Hugill,9.0,F,Centre Striker,17.0,Queens Park Rangers,GB-ENG,England,4 June 1992
+136284.0,Cameron,Humphreys-Grant,,D,Centre Central Defender,11.0,Manchester City,GB-ENG,England,22 August 1998
+172668.0,Joseph,Hungbo,44.0,M,Midfielder,33.0,Watford,GB-ENG,England,15 January 2000
+160940.0,James,Husband,26.0,D,Left Full Back,44.0,Blackpool,GB-ENG,England,3 January 1994
+9993.0,Alan,Hutton,3.0,D,Defender,27.0,Bolton Wanderers,GB-SCT,Scotland,30 November 1984
+48180.0,Emerson,Hyndman,22.0,M,Centre Central Midfielder,127.0,Bournemouth (previousTeam),US,United States,9 April 1996
+43087.0,Pierre-Emile,Højbjerg,,M,Centre Central Midfielder,20.0,Southampton,DK,Denmark,5 August 1995
+30959.0,Jordon,Ibe,10.0,M,Left/Right Winger,127.0,Bournemouth (previousTeam),GB-ENG,England,8 December 1995
+144941.0,Vicente,Iborra,10.0,M,Centre Central Midfielder,253.0,Villarreal,ES,Spain,16 January 1988
+161537.0,Adam,Idah,35.0,F,Centre Striker,14.0,Norwich City,IE,Ireland,11 February 2001
+180210.0,Odion,Ighalo,25.0,F,Centre Striker,12.0,Manchester United,NG,Nigeria,16 June 1989
+51676.0,Kelechi,Iheanacho,14.0,F,Centre Striker,26.0,Leicester City,NG,Nigeria,3 October 1996
+133156.0,Iker,Pozo La Rosa,66.0,M,Midfielder,11.0,Manchester City (previousTeam),ES,Spain,6 August 2000
+25304.0,Dejan,Iliev,50.0,G,Goalkeeper,1.0,Arsenal (previousTeam),NORTH MACEDONIA,,25 February 1995
+135255.0,Danny,Ings,9.0,F,Centre Striker,20.0,Southampton (previousTeam),GB-ENG,England,23 July 1992
+166977.0,Ryan,Inniss,27.0,D,Centre Central Defender,169.0,Newport County,GB-ENG,England,5 June 1995
+94486.0,Isaac,Success Ajayi,17.0,F,Centre Striker,496.0,Málaga (previousTeam),NG,Nigeria,7 January 1996
+162183.0,Isaiah,Brown,24.0,M,Centre Attacking Midfielder,163.0,Luton Town (previousTeam),GB-ENG,England,7 January 1997
+160642.0,Daniel,Iversen,1.0,G,Goalkeeper,178.0,Rotherham United,DK,Denmark,19 July 1997
+134823.0,Ivo Daniel,Ferreira Mendonça Pinto,6.0,D,Left Full Back,81.0,Dinamo Zagreb (previousTeam),PT,Portugal,7 January 1990
+162020.0,Alex,Iwobi,17.0,F,Left/Centre/Right Second Striker,7.0,Everton,NG,Nigeria,3 May 1996
+138549.0,José,Izquierdo,,F,Left Winger,131.0,Brighton and Hove Albion,CO,Colombia,7 July 1992
+160166.0,Phil,Jagielka,15.0,D,Centre Central Defender,18.0,Sheffield United,GB-ENG,England,17 August 1982
+135976.0,Alireza,Jahanbakhsh,16.0,F,Right Winger,131.0,Brighton and Hove Albion,IR,Iran,11 August 1993
+6686.0,Eldin,Jakupovic,16.0,G,Goalkeeper,26.0,Leicester City,CH,Switzerland,2 October 1984
+52087.0,Reece,James,24.0,D,Right Full Back,4.0,Chelsea,GB-ENG,England,8 December 1999
+179376.0,Andi,Janjeva,72.0,D,Defender,33.0,Watford,,,11 October 2002
+138347.0,Alexandre,Jankewitz,,M,Centre Central Midfielder,20.0,Southampton,CH,Switzerland,25 December 2001
+32203.0,Daryl,Janmaat,2.0,D,Right Full Back,33.0,Watford,NL,Netherlands,22 July 1989
+165870.0,Vincent,Janssen,9.0,F,Centre Striker,405.0,Monterrey,NL,Netherlands,15 June 1994
+52243.0,Vitezslav,Jaros,,G,Goalkeeper,10.0,Liverpool (previousTeam),CZ,Czech Republic,23 July 2001
+32086.0,Mile,Jedinak,15.0,M,Centre Central Midfielder,2.0,Aston Villa (previousTeam),AU,Australia,3 August 1984
+161544.0,Carl,Jenkinson,16.0,D,Right Full Back,15.0,Nottingham Forest,GB-ENG,England,8 February 1992
+166828.0,Teddy,Jenks,,M,Midfielder,131.0,Brighton and Hove Albion,GB-ENG,England,12 March 2002
+184281.0,Lukas,Jensen,40.0,G,Goalkeeper,43.0,Burnley,DK,Denmark,18 March 1999
+138616.0,Guangtai,Jiang,,D,Defender,7.0,Everton (previousTeam),CN,China,27 May 1994
+179279.0,Roberto,Jiménez,13.0,G,Goalkeeper,646.0,Alavés,ES,Spain,10 February 1986
+161549.0,João Pedro,Cavaco Cancelo,27.0,D,Right Full Back,11.0,Manchester City,PT,Portugal,27 May 1994
+133641.0,João Filipe Iria,Santos Moutinho,28.0,M,Centre Central Midfielder,38.0,Wolverhampton Wanderers,PT,Portugal,8 September 1986
+172390.0,João Pedro,Junqueira de Jesus,17.0,F,Centre Striker,33.0,Watford,BR,Brazil,26 September 2001
+160427.0,João Manuel,Neves Virgínia,20.0,G,Goalkeeper,40.0,Reading (previousTeam),PT,Portugal,10 October 1999
+179154.0,Joe,Powell,23.0,M,Midfielder,134.0,Burton Albion,GB-ENG,England,30 October 1998
+42923.0,Joel Dinis,Castro Pereira,40.0,G,Goalkeeper,12.0,Manchester United (previousTeam),PT,Portugal,28 June 1996
+160671.0,Joelinton Cássio,Apolinário de Lira,9.0,F,Centre Striker,23.0,Newcastle United,BR,Brazil,14 August 1996
+138228.0,Viktor,Johansson,,G,Goalkeeper,26.0,Leicester City (previousTeam),SE,Sweden,14 September 1998
+161043.0,Cameron,John,32.0,D,Defender,147.0,Doncaster Rovers,GB-ENG,England,24 August 1999
+175561.0,Tyreece,John-Jules,9.0,F,Forward,162.0,Lincoln City,GB-ENG,England,14 February 2001
+136947.0,Marvin,Johnson,22.0,M,Left Winger,18.0,Sheffield United (previousTeam),GB-ENG,England,1 December 1990
+163386.0,George,Johnston,14.0,D,Centre Central Defender,236.0,Feyenoord,GB-SCT,Scotland,1 September 1998
+128177.0,Curtis,Jones,48.0,M,Centre Central Midfielder,10.0,Liverpool (previousTeam),GB-ENG,England,30 January 2001
+154336.0,Jonathan,Castro Otto,19.0,D,Left Full Back,38.0,Wolverhampton Wanderers,ES,Spain,3 March 1994
+57855.0,Corey,Jordan,37.0,D,Centre Central Defender,127.0,Bournemouth (previousTeam),GB-ENG,England,4 March 1999
+132771.0,Jorge Luiz,Frello Filho,5.0,M,Centre Central Midfielder,4.0,Chelsea,IT,Italy,20 December 1991
+160442.0,Jose Luis,Mato Sanmartín,9.0,F,Centre Striker,646.0,Alavés,ES,Spain,27 March 1990
+159677.0,José Ignacio,Peleteiro Ramallo,23.0,M,Left/Centre Attacking Midfielder,2.0,Aston Villa,ES,Spain,16 June 1991
+159737.0,James,Justin,2.0,D,Right Full Back,26.0,Leicester City,GB-ENG,England,23 February 1998
+30562.0,Christian,Kabasele,27.0,D,Centre Central Defender,33.0,Watford,BE,Belgium,24 February 1991
+32102.0,Younes,Kaboul,4.0,D,Centre Central Defender,33.0,Watford (previousTeam),FR,France,4 January 1986
+160941.0,Sullay,Kaikai,10.0,M,Left Winger,44.0,Blackpool,GB-ENG,England,26 August 1995
+160059.0,Tomas,Kalas,22.0,D,Centre Central Defender,132.0,Bristol City,CZ,Czech Republic,15 May 1993
+166467.0,Lovre,Kalinic,,G,Goalkeeper,2.0,Aston Villa (previousTeam),HR,Croatia,3 April 1990
+172612.0,Herbie,Kane,41.0,M,Centre Central Midfielder,41.0,Hull City,GB-ENG,England,23 November 1998
+30960.0,N'Golo,Kanté,7.0,M,Centre Central Midfielder,4.0,Chelsea,FR,France,29 March 1991
+55225.0,Bartosz,Kapustka,32.0,M,Left/Right Winger,113.0,Sport-Club Freiburg (previousTeam),PL,Poland,23 December 1996
+136276.0,Loris,Karius,1.0,G,Goalkeeper,229.0,Besiktas,DE,Germany,22 June 1993
+162028.0,Beram,Kayal,21.0,M,Centre Defensive Midfielder,31.0,Charlton Athletic (previousTeam),IL,Israel,2 May 1988
+160897.0,Moise,Kean,27.0,F,Centre Striker,7.0,Everton,IT,Italy,28 February 2000
+48260.0,Michael,Keane,5.0,D,Centre Central Defender,7.0,Everton,GB-ENG,England,11 January 1993
+183160.0,Peter,Keen,,G,Goalkeeper,23.0,Newcastle United,GB-ENG,England,16 November 1976
+129760.0,Naby,Keita,8.0,M,Centre Central Midfielder,10.0,Liverpool,GN,Guinea,10 February 1995
+131778.0,Caoimhin,Kelleher,81.0,G,Goalkeeper,10.0,Liverpool (previousTeam),IE,Ireland,23 November 1998
+159635.0,Lloyd,Kelly,26.0,D,Left Full Back,127.0,Bournemouth,GB-ENG,England,6 October 1998
+180340.0,Daniel,Kemp,42.0,M,Centre Central Midfielder,187.0,Stevenage,GB-ENG,England,11 January 1999
+163751.0,Robert Kenedy,Nunes do Nascimento,25.0,M,Left Wing Back,503.0,Getafe (previousTeam),BR,Brazil,8 February 1996
+170949.0,Jonjoe,Kenny,20.0,D,Right Full Back,59.0,FC Schalke 04,GB-ENG,England,15 March 1997
+163785.0,Ryan,Kent,14.0,M,Left Winger,351.0,Rangers,GB-ENG,England,11 November 1996
+180889.0,Sung-Yueng,Ki,10.0,M,Centre Central Midfielder,618.0,Mallorca (previousTeam),KR,South Korea,24 January 1989
+19884.0,Kieron,Freeman,17.0,D,Left/Right Full Back,37.0,Portsmouth,GB-WLS,Wales,21 March 1992
+48228.0,Francisco,Femenía Far,21.0,D,Right Wing Back,33.0,Watford,ES,Spain,2 February 1991
+162092.0,Gavin,Kilkenny,53.0,M,Centre Central Midfielder,127.0,Bournemouth,IE,Ireland,1 February 2000
+144289.0,Maximilian,Kilman,49.0,D,Left Full Back,38.0,Wolverhampton Wanderers,GB-ENG,England,23 May 1997
+18721.0,Joshua,King,7.0,F,Centre/Right Second Striker,127.0,Bournemouth,NO,Norway,15 January 1992
+145296.0,Nya,Kirby,23.0,M,Centre Central Midfielder,44.0,Blackpool,GB-ENG,England,31 January 2000
+160650.0,Christoph,Klarer,,M,Midfielder,20.0,Southampton (previousTeam),AT,Austria,14 June 2000
+135939.0,Ragnar,Klavan,15.0,D,Left/Centre Central Defender,1026.0,Cagliari,EE,Estonia,30 October 1985
+41632.0,Timm,Klose,,D,Defender,14.0,Norwich City,CH,Switzerland,9 May 1988
+154789.0,Josh,Knight,8.0,D,Centre Central Defender,173.0,Peterborough United,GB-ENG,England,7 September 1997
+161391.0,Anthony,Knockaert,24.0,M,Left/Centre Attacking Midfielder,34.0,Fulham,FR,France,20 November 1991
+35777.0,Jonathan,Kodjia,22.0,F,Centre Striker,2.0,Aston Villa (previousTeam),CI,Cote D'Ivoire,22 October 1989
+47171.0,Sead,Kolasinac,31.0,D,Left Full Back,1.0,Arsenal,BA,Bosnia And Herzegovina,20 June 1993
+5013.0,Vincent,Kompany,4.0,D,Centre Central Defender,11.0,Manchester City (previousTeam),BE,Belgium,10 April 1986
+160422.0,Ezri,Konsa Ngoyo,15.0,D,Centre Central Defender,2.0,Aston Villa,GB-ENG,England,23 October 1997
+170758.0,Laurent,Koscielny,6.0,D,Centre Central Defender,79.0,Bordeaux,FR,France,10 September 1985
+166560.0,Billy,Koumetio,,D,Defender,10.0,Liverpool,FR,France,14 November 2002
+134321.0,Cheikhou,Kouyaté,8.0,M,Centre Central Midfielder,6.0,Crystal Palace,SN,Senegal,21 December 1989
+160054.0,Mateo,Kovacic,17.0,M,Centre Central Midfielder,4.0,Chelsea,HR,Croatia,6 May 1994
+135369.0,Matej,Kovar,51.0,G,Goalkeeper,12.0,Manchester United (previousTeam),CZ,Czech Republic,17 May 2000
+161985.0,Emil,Krafth,17.0,D,Right Full Back,23.0,Newcastle United,SE,Sweden,2 August 1994
+133649.0,Tim,Krul,1.0,G,Goalkeeper,14.0,Norwich City,NL,Netherlands,3 April 1988
+48542.0,Alexandre,Lacazette,9.0,F,Centre Striker,1.0,Arsenal,FR,France,28 May 1991
+144552.0,Daniel,Lafferty,18.0,D,Left Full Back,173.0,Peterborough United,GB-NIR,Northern Ireland,18 May 1989
+167235.0,Ethan,Laird,41.0,D,Right Full Back,12.0,Manchester United,GB-ENG,England,5 August 2001
+13993.0,Adam,Lallana,20.0,M,Left/Centre/Right Attacking Midfielder,10.0,Liverpool,GB-ENG,England,10 May 1988
+6773.0,Erik,Lamela,11.0,M,Centre/Right Attacking Midfielder,21.0,Tottenham Hotspur,AR,Argentina,4 March 1992
+180207.0,Tariq,Lamptey,2.0,D,Right Full Back,131.0,Brighton and Hove Albion,GB-ENG,England,30 September 2000
+43134.0,Henri,Lansbury,8.0,M,Centre Central Midfielder,2.0,Aston Villa,GB-ENG,England,12 October 1990
+39471.0,Manuel,Lanzini,10.0,M,Left/Centre/Right Attacking Midfielder,25.0,West Ham United,AR,Argentina,15 February 1993
+94133.0,Aymeric,Laporte,14.0,D,Centre Central Defender,11.0,Manchester City,FR,France,27 May 1994
+79887.0,Yasser,Larouci,,D,Defender,10.0,Liverpool (previousTeam),FR,France,1 January 2001
+14914.0,Jamaal,Lascelles,16.0,D,Centre Central Defender,15.0,Nottingham Forest,GB-ENG,England,11 November 1993
+161414.0,Caolan,Lavery,9.0,F,Centre Striker,193.0,Walsall,GB-NIR,Northern Ireland,22 October 1992
+154425.0,Achraf,Lazaar,38.0,M,Midfielder,19.0,Sheffield Wednesday (previousTeam),MA,Morocco,22 January 1992
+179421.0,Valentino,Lazaro,23.0,M,Right Winger,23.0,Newcastle United,AT,Austria,24 March 1996
+135438.0,Adam,Leathers,,M,Midfielder,26.0,Leicester City,GB-ENG,England,14 November 2001
+51785.0,Adam,Legzdins,30.0,G,Goalkeeper,43.0,Burnley (previousTeam),GB-ENG,England,28 November 1986
+130623.0,Moritz,Leitner,10.0,M,Centre Central Midfielder,14.0,Norwich City,DE,Germany,8 December 1992
+141189.0,Florian,Lejeune,,D,Defender,23.0,Newcastle United,FR,France,20 May 1991
+163809.0,Mario,Lemina,99.0,M,Centre Central Midfielder,61.0,Galatasaray,GA,Gabon,1 September 1993
+93899.0,Aaron,Lennon,25.0,M,Right Winger,43.0,Burnley (previousTeam),GB-ENG,England,16 April 1987
+129845.0,Bernd,Leno,1.0,G,Goalkeeper,1.0,Arsenal,DE,Germany,4 March 1992
+163721.0,Leonardo Bonatini,Lohner Maia,13.0,F,Centre Striker,119.0,Vitória Guimarães,BR,Brazil,28 March 1994
+135175.0,Jefferson,Lerma,8.0,M,Centre Central Midfielder,127.0,Bournemouth,CO,Colombia,25 October 1994
+140907.0,Thakgalo,Leshabela,59.0,M,Centre Central Midfielder,26.0,Leicester City (previousTeam),ZA,South Africa,18 September 1999
+167241.0,Dylan,Levitt,63.0,M,Centre Central Midfielder,12.0,Manchester United,GB-WLS,Wales,17 November 2000
+50567.0,Adam,Lewis,,M,Left Winger,10.0,Liverpool (previousTeam),GB-ENG,England,8 November 1999
+30669.0,Lewis,Cook,16.0,M,Centre Central Midfielder,127.0,Bournemouth,GB-ENG,England,3 February 1997
+170882.0,Stephan,Lichtsteiner,2.0,D,Right Full Back,266.0,FC Augsburg,CH,Switzerland,16 January 1984
+53321.0,Anders,Lindegaard,22.0,G,Goalkeeper,43.0,Burnley (previousTeam),DK,Denmark,13 April 1984
+47188.0,Victor,Lindelöf,2.0,D,Centre/Right Central Defender,12.0,Manchester United,SE,Sweden,17 July 1994
+14607.0,Jesse,Lingard,16.0,M,Attacking Midfielder,28.0,Derby County (previousTeam),GB-ENG,England,15 December 1992
+163814.0,Fernando,Llorente,9.0,F,Centre Striker,65.0,Napoli,ES,Spain,26 February 1985
+6503.0,Hugo,Lloris,1.0,G,Goalkeeper,21.0,Tottenham Hotspur,FR,France,26 December 1986
+183616.0,Giovani,Lo Celso,18.0,M,Centre Attacking Midfielder,21.0,Tottenham Hotspur (previousTeam),AR,Argentina,9 April 1996
+171568.0,Jürgen,Locadia,37.0,F,Centre Striker,433.0,TSG 1899 Hoffenheim,NL,Netherlands,7 November 1993
+183808.0,Ruben,Loftus-Cheek,8.0,M,Centre Central Midfielder,6.0,Crystal Palace,GB-ENG,England,23 January 1996
+160566.0,Andy,Lonergan,22.0,G,Goalkeeper,10.0,Liverpool,GB-ENG,England,19 October 1983
+58313.0,Kevin,Long,40.0,D,Centre/Right Full Back,167.0,MK Dons,IE,Ireland,18 August 1990
+166641.0,Ryan,Longman,61.0,M,Centre Central Midfielder,131.0,Brighton and Hove Albion,GB-ENG,England,6 November 2000
+93885.0,Luis,Longstaff,75.0,M,Centre Attacking Midfielder,10.0,Liverpool,GB-ENG,England,24 February 2001
+162328.0,Ademola,Lookman,17.0,F,Left/Right Winger,498.0,RB Leipzig,GB-ENG,England,20 October 1997
+180192.0,Jonas,Lössl,49.0,G,Goalkeeper,159.0,Huddersfield Town,DK,Denmark,1 February 1989
+13988.0,Dejan,Lovren,6.0,D,Centre Central Defender,10.0,Liverpool,HR,Croatia,5 July 1989
+18842.0,Matthew,Lowton,2.0,D,Right Full Back,43.0,Burnley,GB-ENG,England,9 June 1989
+94228.0,Lucas,Rodrigues Moura da Silva,27.0,M,Right Winger,21.0,Tottenham Hotspur,BR,Brazil,13 August 1992
+154872.0,Lucas Estella,Perri,,G,Goalkeeper,6.0,Crystal Palace,BR,Brazil,10 December 1997
+42508.0,Gustavo Lucas,Domingues Piazon,20.0,M,Left/Centre/Right Attacking Midfielder,34.0,Fulham (previousTeam),BR,Brazil,20 January 1994
+162294.0,Romelu,Lukaku,9.0,F,Centre Striker,241.0,Internazionale,BE,Belgium,13 May 1993
+160103.0,Luke,Freeman,8.0,M,Left Attacking Midfielder,18.0,Sheffield United,GB-ENG,England,22 March 1992
+171029.0,Dodi,Lukébakio,28.0,F,Left/Right Winger,316.0,Hertha BSC,BE,Belgium,24 September 1997
+51326.0,John,Lundstram,7.0,M,Centre Central Midfielder,18.0,Sheffield United,GB-ENG,England,18 February 1994
+162414.0,Brooklyn,Lyons-Foster,63.0,D,Defender,21.0,Tottenham Hotspur (previousTeam),GB-ENG,England,1 December 2000
+134327.0,Ian,Maatsen,,D,Defender,4.0,Chelsea (previousTeam),NL,Netherlands,10 March 2002
+180215.0,Alexis,Mac Allister,10.0,M,Left/Centre/Right Attacking Midfielder,131.0,Brighton and Hove Albion,AR,Argentina,24 December 1998
+134460.0,Matt,Macey,1.0,G,Goalkeeper,174.0,Plymouth Argyle,GB-ENG,England,9 September 1994
+130045.0,James,Maddison,10.0,M,Left/Centre/Right Attacking Midfielder,26.0,Leicester City,GB-ENG,England,23 November 1996
+179227.0,Gary,Madine,30.0,F,Centre Striker,44.0,Blackpool,GB-ENG,England,24 August 1990
+161345.0,Harry,Maguire,5.0,D,Centre Central Defender,12.0,Manchester United,GB-ENG,England,5 March 1993
+160325.0,Connor,Mahoney,21.0,M,Left/Right Winger,166.0,Millwall,GB-ENG,England,12 February 1997
+131779.0,Riyad,Mahrez,26.0,F,Left/Right Winger,11.0,Manchester City,DZ,Algeria,21 February 1991
+166195.0,Archie,Mair,60.0,G,Goalkeeper,14.0,Norwich City,GB-SCT,Scotland,10 February 2001
+19415.0,Ainsley,Maitland-Niles,7.0,M,Right Winger,8.0,Ipswich Town,GB-ENG,England,29 August 1997
+30549.0,Sadio,Mané,10.0,F,Left/Right Winger,10.0,Liverpool,SN,Senegal,10 April 1992
+162276.0,Eliaquim,Mangala,4.0,D,Centre Central Defender,118.0,Valencia CF,FR,France,13 February 1991
+50136.0,Javier,Manquillo,19.0,D,Right Full Back,23.0,Newcastle United,ES,Spain,5 May 1994
+175469.0,Addji Keaninkin Marc-Israel,Guehi,2.0,D,Defender,45.0,Swansea City,GB-ENG,England,13 July 2000
+32140.0,Solly,March,11.0,M,Midfielder,131.0,Brighton and Hove Albion,GB-ENG,England,20 July 1994
+180764.0,Pablo,Marí,,D,Centre Central Defender,1.0,Arsenal,ES,Spain,31 August 1993
+34883.0,Adrian,Mariappa,6.0,D,Centre/Right Central Defender,33.0,Watford,JM,Jamaica,3 October 1986
+126089.0,Lazar,Markovic,50.0,F,Left/Right Winger,246.0,Partizan Belgrade,RS,Serbia,2 March 1994
+160742.0,Christian,Marques,,D,Centre Central Defender,38.0,Wolverhampton Wanderers,CH,Switzerland,15 January 2003
+166920.0,George,Marsh,21.0,M,Midfielder,161.0,Leyton Orient,GB-ENG,England,5 November 1998
+130625.0,Ben,Marshall,7.0,M,Left/Right Winger,14.0,Norwich City (previousTeam),GB-ENG,England,29 March 1991
+19619.0,Anthony,Martial,9.0,F,Left/Centre Second Striker,12.0,Manchester United,FR,France,5 December 1995
+162047.0,Josh,Martin,56.0,M,Centre Striker,14.0,Norwich City,GB-ENG,England,9 September 2001
+181701.0,Emiliano,Martínez,26.0,G,Goalkeeper,40.0,Reading,AR,Argentina,2 September 1992
+130672.0,Adam,Masina,11.0,D,Left Full Back,33.0,Watford,IT,Italy,2 January 1994
+161141.0,Joe,Mason,20.0,F,Centre Striker,167.0,MK Dons,IE,Ireland,13 May 1991
+161031.0,Mason,Enigbokan-Bloomfield,16.0,F,Centre Striker,142.0,Crawley Town,GB-ENG,England,4 November 1996
+167431.0,Ntumba,Massanka,18.0,M,Midfielder,575.0,Chorley,GB-ENG,England,30 November 1996
+31289.0,Arthur,Masuaku,26.0,D,Left Full Back,25.0,West Ham United,CD,The Democratic Republic Of Congo,7 November 1993
+7431.0,Juan,Mata,8.0,M,Left/Centre/Right Attacking Midfielder,12.0,Manchester United,ES,Spain,28 April 1988
+180328.0,Luke,Matheson,41.0,D,Defender,177.0,Rochdale,GB-ENG,England,2 October 2002
+51329.0,Nemanja,Matic,31.0,M,Centre Central Midfielder,12.0,Manchester United,RS,Serbia,1 August 1988
+43049.0,Joel,Matip,,D,Centre Central Defender,10.0,Liverpool,CM,Cameroon,8 August 1991
+137781.0,Matthew,Longstaff,,M,Midfielder,23.0,Newcastle United (previousTeam),GB-ENG,England,21 March 2000
+161393.0,Neal,Maupay,7.0,F,Centre Striker,131.0,Brighton and Hove Albion,FR,France,14 August 1996
+93676.0,Konstantinos,Mavropanos,,D,Centre Central Defender,1.0,Arsenal (previousTeam),GR,Greece,11 December 1997
+52229.0,James,McArthur,,M,Central Midfielder,6.0,Crystal Palace,GB-SCT,Scotland,7 October 1987
+160847.0,Oliver,McBurnie,9.0,F,Centre Striker,18.0,Sheffield United,GB-SCT,Scotland,4 June 1996
+180293.0,Sam,McCallum,31.0,D,Left Full Back,5.0,Coventry City,GB-ENG,England,2 September 2000
+161558.0,James,McCarthy,22.0,M,Centre Central Midfielder,6.0,Crystal Palace,IE,Ireland,12 November 1990
+138958.0,Ross,McCormack,44.0,F,Centre Striker,1083.0,Central Coast Mariners (previousTeam),GB-SCT,Scotland,18 August 1986
+135145.0,George,McEachran,55.0,M,Centre Attacking Midfielder,4.0,Chelsea (previousTeam),GB-ENG,England,30 August 2000
+135200.0,John,McGinn,7.0,M,Centre Central Midfielder,2.0,Aston Villa,GB-SCT,Scotland,18 October 1994
+133644.0,David,McGoldrick,17.0,F,Striker,18.0,Sheffield United,IE,Ireland,29 November 1987
+31037.0,Michael,McGovern,33.0,G,Goalkeeper,14.0,Norwich City,GB-NIR,Northern Ireland,12 July 1984
+51527.0,Giovanni,McGregor,38.0,M,Midfielder,6.0,Crystal Palace (previousTeam),GB-ENG,England,9 January 1999
+160994.0,Harry,McKirdy,11.0,M,Midfielder,137.0,Carlisle United,GB-ENG,England,29 March 1997
+130622.0,Kenny,McLean,23.0,M,Centre Central Midfielder,14.0,Norwich City,GB-SCT,Scotland,8 January 1992
+135908.0,Dwight,McNeil,11.0,M,Left/Centre Winger,43.0,Burnley,GB-ENG,England,22 November 1999
+138388.0,Sam,McQueen,,M,Left Winger,13.0,Middlesbrough (previousTeam),GB-ENG,England,6 February 1995
+53206.0,Scott,McTominay,39.0,M,Centre Central Midfielder,12.0,Manchester United,GB-SCT,Scotland,8 December 1996
+139118.0,Zech,Medley,49.0,D,Central Defender,1.0,Arsenal (previousTeam),GB-ENG,England,9 July 2000
+10292.0,Ben,Mee,6.0,D,Left/Centre Central Defender,43.0,Burnley,GB-ENG,England,21 September 1989
+167242.0,D'Mani,Mellor,49.0,F,Winger,12.0,Manchester United,GB-ENG,England,20 September 2000
+53125.0,Nampalys,Mendy,21.0,M,Defensive Midfielder,319.0,Nice,FR,France,23 June 1992
+167238.0,Teden,Mengi,71.0,D,Centre Central Defender,12.0,Manchester United,GB-ENG,England,30 April 2002
+153012.0,Chris,Mepham,33.0,D,Centre Central Defender,127.0,Bournemouth,GB-WLS,Wales,5 November 1997
+134381.0,Max,Meyer,7.0,M,Left/Centre/Right Attacking Midfielder,6.0,Crystal Palace,DE,Germany,18 September 1995
+154175.0,Matt,Miazga,5.0,D,Centre Central Defender,40.0,Reading (previousTeam),US,United States,19 July 1995
+162448.0,Simon,Mignolet,88.0,G,Goalkeeper,232.0,Club Brugge,BE,Belgium,6 March 1988
+7748.0,Luka,Milivojevic,4.0,M,Centre Central Midfielder,6.0,Crystal Palace,RS,Serbia,7 April 1991
+162659.0,Liam,Millar,,F,Centre Striker,10.0,Liverpool,CA,Canada,27 September 1999
+19506.0,James,Milner,7.0,M,Left/Centre/Right Central Midfielder,10.0,Liverpool,GB-ENG,England,4 January 1986
+135243.0,Yerry,Mina,13.0,D,Centre Central Defender,7.0,Everton,CO,Colombia,23 September 1994
+172388.0,Takumi,Minamino,18.0,F,Left/Centre/Right Striker,10.0,Liverpool,JP,Japan,16 January 1995
+160323.0,Tyrone,Mings,40.0,D,Centre Central Defender,2.0,Aston Villa,GB-ENG,England,13 March 1993
+134603.0,Kevin,Mirallas,11.0,F,Left/Right Winger,90.0,Fiorentina (previousTeam),BE,Belgium,5 October 1987
+169744.0,Tyrick,Mitchell,39.0,D,Left Full Back,6.0,Crystal Palace,GB-ENG,England,1 September 1999
+183956.0,Mikkel,Diskerud,,M,Central Midfielder,11.0,Manchester City (previousTeam),US,United States,2 October 1990
+163789.0,Henrikh,Mkhitaryan,77.0,M,Left/Centre/Right Attacking Midfielder,203.0,Roma,AM,Armenia,21 January 1989
+180205.0,Jan,Mlakar,27.0,F,Centre Striker,39.0,Wigan Athletic,SI,Slovenia,23 October 1998
+163773.0,Mohamed Naser,El Sayed Elneny,15.0,M,Centre Defensive Midfielder,229.0,Besiktas,EG,Egypt,11 July 1992
+163262.0,Mohamed,Elyounoussi,27.0,M,Left/Centre/Right Attacking Midfielder,53.0,Celtic,NO,Norway,4 August 1994
+47184.0,Mohamed,Salah Ghaly,11.0,F,Left/Centre/Right Winger,10.0,Liverpool,EG,Egypt,15 June 1992
+161395.0,Jayson,Molumby,16.0,M,Centre Central Midfielder,166.0,Millwall,IE,Ireland,6 August 1999
+135240.0,Martín,Montoya,22.0,D,Right Full Back,131.0,Brighton and Hove Albion,ES,Spain,14 April 1991
+161194.0,Elliott,Moore,5.0,D,Centre Central Defender,172.0,Oxford United,GB-ENG,England,16 March 1997
+179384.0,Aaron,Mooy,18.0,M,Centre Central Midfielder,131.0,Brighton and Hove Albion (previousTeam),AU,Australia,15 September 1990
+184506.0,Álvaro,Morata,9.0,F,Centre Striker,48.0,Atlético de Madrid,ES,Spain,23 October 1992
+116857.0,Marlos,Moreno,17.0,F,Left Winger,504.0,Girona (previousTeam),CO,Colombia,20 September 1996
+11241.0,Wes,Morgan,5.0,D,Centre Central Defender,26.0,Leicester City,JM,Jamaica,21 January 1984
+175439.0,Carlton,Morris,23.0,F,Centre Striker,167.0,MK Dons,GB-ENG,England,16 December 1995
+180197.0,Ravel,Morrison,15.0,M,Left/Centre/Right Attacking Midfielder,13.0,Middlesbrough (previousTeam),GB-ENG,England,2 February 1993
+179383.0,Victor,Moses,11.0,M,Winger,241.0,Internazionale,NG,Nigeria,12 December 1990
+160424.0,Mason,Mount,19.0,M,Centre Attacking Midfielder,4.0,Chelsea,GB-ENG,England,10 January 1999
+160587.0,Lys,Mousset,22.0,F,Centre Striker,18.0,Sheffield United,FR,France,8 February 1996
+160326.0,Arijanet,Muric,49.0,G,Goalkeeper,15.0,Nottingham Forest (previousTeam),XK,Kosovo,7 November 1998
+162005.0,Jacob,Murphy,14.0,M,Left/Right Winger,19.0,Sheffield Wednesday,GB-ENG,England,24 February 1995
+43997.0,Glenn,Murray,17.0,F,Centre Striker,131.0,Brighton and Hove Albion,GB-ENG,England,25 September 1983
+179999.0,Admiral,Muskwe,46.0,F,Centre Striker,24.0,Swindon Town,ZW,Zimbabwe,21 August 1998
+34877.0,Shkodran,Mustafi,20.0,D,Centre/Right Central Defender,1.0,Arsenal,DE,Germany,17 April 1992
+43189.0,Jordon,Mutch,54.0,M,Centre Attacking Midfielder,40.0,Reading,GB-ENG,England,2 December 1991
+134380.0,Yoshinori,Muto,13.0,F,Centre Striker,23.0,Newcastle United,JP,Japan,15 July 1992
+162161.0,Daniel,N'Lundulu,40.0,F,Forward,20.0,Southampton,GB-ENG,England,5 February 1999
+163201.0,Ignacio,Monreal,20.0,D,Left Full Back,69.0,Real Sociedad,ES,Spain,26 February 1986
+160773.0,Marvelous,Nakamba,11.0,M,Centre Central Midfielder,2.0,Aston Villa,ZW,Zimbabwe,19 January 1994
+144300.0,Samir,Nasri,18.0,M,Left/Centre/Right Attacking Midfielder,25.0,West Ham United (previousTeam),FR,France,26 June 1987
+160685.0,Marc,Navarro,2.0,D,Right Full Back,502.0,Leganés,ES,Spain,2 July 1995
+160096.0,Tanguy,Ndombele,28.0,M,Centre Central Midfielder,21.0,Tottenham Hotspur,FR,France,28 December 1996
+167063.0,Layton,Ndukwu,17.0,F,Left/Right Winger,183.0,Southend United (previousTeam),GB-ENG,England,7 September 1998
+137752.0,Reiss,Nelson,9.0,F,Left/Centre/Right Second Striker,433.0,TSG 1899 Hoffenheim,GB-ENG,England,10 December 1999
+153041.0,Nélson Miguel,Castro Oliveira,22.0,F,Centre Striker,40.0,Reading,PT,Portugal,8 August 1991
+175534.0,Jeremy,Ngakia,52.0,D,Full Back,25.0,West Ham United (previousTeam),GB-ENG,England,7 September 2000
+152932.0,Oumar,Niasse,29.0,F,Left/Right Winger,46.0,Cardiff City (previousTeam),SN,Senegal,18 April 1990
+161996.0,Eddie,Nketiah,14.0,F,Centre Striker,9.0,Leeds United (previousTeam),GB-ENG,England,30 May 1999
+163251.0,Georges-Kévin,Nkoudou,19.0,M,Left/Right Winger,229.0,Besiktas,FR,France,13 February 1995
+141222.0,Felix,Nmecha,61.0,M,Centre Attacking Midfielder,11.0,Manchester City (previousTeam),GB-ENG,England,10 October 2000
+4029.0,Mark,Noble,16.0,M,Centre Central Midfielder,25.0,West Ham United,GB-ENG,England,8 May 1987
+161243.0,Rhys,Norrington-Davies,3.0,D,Left Full Back,177.0,Rochdale,GB-WLS,Wales,22 April 1999
+170107.0,James,Norris,93.0,D,Left Full Back,10.0,Liverpool,GB-ENG,England,4 April 2003
+144579.0,Oliver,Norwood,16.0,M,Centre Central Midfielder,18.0,Sheffield United,GB-NIR,Northern Ireland,12 April 1991
+135178.0,Ørjan,Nyland,25.0,G,Goalkeeper,2.0,Aston Villa,NO,Norway,10 September 1990
+30925.0,Jack,O'Connell,5.0,D,Centre Central Defender,18.0,Sheffield United,GB-ENG,England,29 March 1994
+175674.0,Thomas,O'Connor,24.0,D,Centre Central Defender,153.0,Gillingham,IE,Ireland,21 April 1999
+160644.0,Aaron,O'Driscoll,,D,Defender,20.0,Southampton (previousTeam),IE,Ireland,4 April 1999
+160975.0,Kieran,O'Hara,1.0,G,Goalkeeper,134.0,Burton Albion,IE,Ireland,22 April 1996
+166859.0,Callum,O'Hare,17.0,M,Left/Right Attacking Midfielder,5.0,Coventry City,GB-ENG,England,1 May 1998
+134643.0,Warren,O'Hora,,D,Defender,131.0,Brighton and Hove Albion (previousTeam),IE,Ireland,19 April 1999
+139073.0,Aiden,O'Neill,13.0,M,Centre Defensive Midfielder,1083.0,Central Coast Mariners,AU,Australia,4 July 1998
+139755.0,Michael,Obafemi,20.0,F,Centre Striker,20.0,Southampton,IE,Ireland,6 July 2000
+20343.0,Pedro,Obiang,14.0,M,Left/Centre Central Midfielder,25.0,West Ham United (previousTeam),GQ,Equatorial Guinea,27 March 1992
+167105.0,Nnamdi,Ofoborh,28.0,M,Centre Central Midfielder,196.0,Wycombe Wanderers,NG,Nigeria,7 November 1999
+20341.0,Angelo,Ogbonna,21.0,D,Left/Centre Central Defender,25.0,West Ham United,IT,Italy,23 May 1988
+171578.0,Stefano,Okaka,7.0,F,Centre Striker,334.0,Udinese,IT,Italy,9 August 1989
+168519.0,Shinji,Okazaki,12.0,F,Centre Second Striker,630.0,Huesca,JP,Japan,16 April 1986
+135824.0,Temitayo Olufisayo Olaoluwa,Aina,34.0,D,Right Full Back,251.0,Torino,NG,Nigeria,8 October 1996
+179971.0,James,Olayinka,21.0,M,Right Winger,170.0,Northampton Town,GB-ENG,England,5 October 2000
+172057.0,Oludare,Olufunwa,,D,Defender,20.0,Southampton (previousTeam),GB-ENG,England,29 July 2001
+162537.0,Josh,Onomah,25.0,M,Left/Centre/Right Attacking Midfielder,34.0,Fulham,GB-ENG,England,27 April 1997
+132083.0,Henry,Onyekuru,70.0,F,Left/Right Winger,61.0,Galatasaray,NG,Nigeria,5 June 1997
+17894.0,Divock,Origi,27.0,F,Centre Striker,243.0,Lille (previousTeam),BE,Belgium,18 April 1995
+160698.0,Ben,Osborn,23.0,M,Centre Central Midfielder,18.0,Sheffield United,GB-ENG,England,5 August 1994
+141025.0,Jordi,Osei-Tutu,,D,Defender,1.0,Arsenal,GB-ENG,England,2 October 1998
+160246.0,David,Ospina,25.0,G,Goalkeeper,65.0,Napoli,CO,Colombia,31 August 1988
+184402.0,Leo,Ostigard,57.0,D,Defender,131.0,Brighton and Hove Albion,NO,Norway,28 November 1999
+19592.0,Nicolás,Otamendi,30.0,D,Centre Central Defender,11.0,Manchester City,AR,Argentina,12 February 1988
+50937.0,Owen,Otasowie,54.0,M,Midfielder,38.0,Wolverhampton Wanderers,US,United States,6 January 2001
+144980.0,Oviemuno,Ejaria,14.0,M,Centre Central Midfielder,40.0,Reading,GB-ENG,England,18 November 1997
+133867.0,Aston,Oxborough,38.0,G,Goalkeeper,14.0,Norwich City (previousTeam),GB-ENG,England,9 May 1998
+170889.0,Reece,Oxford,36.0,D,Centre Central Defender,266.0,FC Augsburg,GB-ENG,England,16 December 1998
+53035.0,Alex,Oxlade-Chamberlain,15.0,M,Left/Centre/Right Central Midfielder,10.0,Liverpool,GB-ENG,England,15 August 1993
+6577.0,Mesut,Özil,10.0,M,Centre/Right Attacking Midfielder,1.0,Arsenal,DE,Germany,15 October 1988
+160774.0,Kasey,Palmer,45.0,M,Centre Attacking Midfielder,132.0,Bristol City,GB-ENG,England,9 November 1996
+100702.0,Erik,Palmer-Brown,,D,Centre Central Defender,11.0,Manchester City (previousTeam),US,United States,24 April 1997
+184457.0,Adam,Parkes,47.0,G,Goalkeeper,33.0,Watford,GB-ENG,England,30 November 1999
+179998.0,David,Parkhouse,44.0,F,Centre Striker,187.0,Stevenage,GB-NIR,Northern Ireland,24 January 1999
+116976.0,Troy,Parrott,52.0,F,Centre Striker,21.0,Tottenham Hotspur,IE,Ireland,4 February 2002
+160502.0,Mario,Pasalic,88.0,M,Centre Central Midfielder,421.0,Atalanta,HR,Croatia,9 February 1995
+157073.0,Felix,Passlack,,D,Left/Right Full Back,14.0,Norwich City (previousTeam),DE,Germany,29 May 1998
+181643.0,Alfie,Payne,40.0,M,Midfielder,14.0,Norwich City (previousTeam),GB-ENG,England,7 October 1999
+160844.0,Bailey,Peacock-Farrell,15.0,G,Goalkeeper,43.0,Burnley,GB-NIR,Northern Ireland,29 October 1996
+18957.0,Pedro,Rodríguez Ledesma,11.0,F,Left/Right Winger,4.0,Chelsea,ES,Spain,28 July 1987
+160895.0,Pedro,Lomba Neto,7.0,F,Right Winger,38.0,Wolverhampton Wanderers,PT,Portugal,9 March 2000
+180850.0,Adalberto,Peñaranda,,F,Forward,33.0,Watford,VE,Venezuela,31 May 1997
+180379.0,Terell,Pennant,,M,Right Winger,26.0,Leicester City,GB-ENG,England,14 September 2002
+162003.0,Matthew,Pennington,25.0,D,Centre Central Defender,41.0,Hull City,GB-ENG,England,6 October 1994
+160783.0,Nicolas,Pépé,19.0,F,Right Winger,1.0,Arsenal,CI,Cote D'Ivoire,29 May 1995
+175685.0,José,Reina,29.0,G,Goalkeeper,2.0,Aston Villa,ES,Spain,31 August 1982
+32103.0,Roberto,Pereyra,37.0,M,Left/Centre/Right Central Midfielder,33.0,Watford,AR,Argentina,7 January 1991
+160156.0,Ayoze,Pérez,17.0,F,Centre/Right Striker,26.0,Leicester City,ES,Spain,29 July 1993
+161407.0,Taylor,Perry,26.0,M,Centre Attacking Midfielder,38.0,Wolverhampton Wanderers,GB-ENG,England,15 July 2001
+32146.0,Nathaniel,Phillips,47.0,D,Central Defender,10.0,Liverpool (previousTeam),GB-ENG,England,21 March 1997
+53188.0,Jordan,Pickford,1.0,G,Goalkeeper,7.0,Everton,GB-ENG,England,7 March 1994
+138686.0,Brandon,Pierrick,40.0,M,Centre Striker,6.0,Crystal Palace,GB-ENG,England,10 December 2001
+160313.0,Erik,Pieters,23.0,D,Left Full Back,43.0,Burnley,NL,Netherlands,7 August 1988
+170960.0,Julio,Pleguezuelo,5.0,D,Centre Central Defender,347.0,FC Twente,ES,Spain,26 January 1997
+32098.0,Paul,Pogba,6.0,M,Centre Central Midfielder,12.0,Manchester United,FR,France,15 March 1993
+30984.0,Nick,Pope,1.0,G,Goalkeeper,43.0,Burnley,GB-ENG,England,19 April 1992
+162275.0,Pedro,Porro,2.0,D,Right Full Back,634.0,Real Valladolid,ES,Spain,13 September 1999
+137805.0,Pedro António,Pereira Goncalves,,M,Midfielder,38.0,Wolverhampton Wanderers,PT,Portugal,28 June 1998
+179991.0,Ian Carlo,Poveda-Ocampo,7.0,F,Forward,9.0,Leeds United,GB-ENG,England,9 February 2000
+162021.0,Dennis,Praet,26.0,M,Centre Attacking Midfielder,26.0,Leicester City,BE,Belgium,14 May 1994
+20253.0,Sebastian,Prödl,5.0,D,Centre Central Defender,33.0,Watford (previousTeam),AT,Austria,21 June 1987
+51703.0,Davy,Pröpper,24.0,M,Centre Central Midfielder,131.0,Brighton and Hove Albion,NL,Netherlands,2 September 1991
+160718.0,Marc,Pugh,7.0,M,Left Winger,17.0,Queens Park Rangers,GB-ENG,England,2 April 1987
+167239.0,Arnau,Puigmal Martínez,47.0,M,Centre Central Midfielder,12.0,Manchester United,ES,Spain,10 January 2001
+130627.0,Teemu,Pukki,22.0,F,Centre Striker,14.0,Norwich City,FI,Finland,29 March 1990
+144698.0,Christian,Pulisic,22.0,M,Left/Centre/Right Attacking Midfielder,52.0,Borussia Dortmund (previousTeam),US,United States,18 September 1998
+144539.0,Jason,Puncheon,42.0,M,Left/Centre/Right Attacking Midfielder,159.0,Huddersfield Town,GB-ENG,England,18 June 1986
+179147.0,Ignacio,Pussetto,33.0,M,Left/Centre Attacking Midfielder,33.0,Watford,AR,Argentina,21 December 1995
+134649.0,Bojan,Radulovic Samoukovic,,F,Forward,131.0,Brighton and Hove Albion (previousTeam),RS,Serbia,29 December 1999
+179131.0,Rafael,Mir Vicente,24.0,F,Centre Striker,630.0,Huesca,ES,Spain,18 June 1997
+163660.0,Rafael Euclides,Soares Camacho,7.0,M,Left/Right Winger,204.0,Sporting Lisbon,PT,Portugal,22 May 2000
+161236.0,Sean,Raggett,20.0,D,Centre Central Defender,37.0,Portsmouth,GB-ENG,England,17 April 1993
+167243.0,Largie,Ramazani,59.0,F,Winger,12.0,Manchester United (previousTeam),BE,Belgium,27 February 2001
+160101.0,Sandro,Ramírez,20.0,F,Centre Striker,634.0,Real Valladolid,ES,Spain,9 July 1995
+180335.0,Kayne,Ramsay,21.0,D,Right Full Back,182.0,Shrewsbury Town,GB-ENG,England,10 October 2000
+144514.0,Aaron,Ramsdale,35.0,G,Goalkeeper,121.0,AFC Wimbledon,GB-ENG,England,14 May 1998
+160225.0,Aaron,Ramsey,8.0,M,Centre Central Midfielder,62.0,Juventus,GB-WLS,Wales,26 December 1990
+132466.0,Darren,Randolph,35.0,G,Goalkeeper,25.0,West Ham United,IE,Ireland,12 May 1987
+19620.0,Marcus,Rashford,10.0,F,Left/Centre Second Striker,12.0,Manchester United,GB-ENG,England,31 October 1997
+30552.0,Nathan,Redmond,22.0,M,Left/Right Winger,20.0,Southampton,GB-ENG,England,6 March 1994
+162031.0,Harrison,Reed,21.0,M,Centre Central Midfielder,34.0,Fulham,GB-ENG,England,27 January 1995
+5844.0,Winston,Reid,6.0,D,Centre/Right Central Defender,25.0,West Ham United (previousTeam),NZ,New Zealand,3 July 1988
+180211.0,Panagiotis,Retsos,29.0,D,Centre Central Defender,18.0,Sheffield United (previousTeam),GR,Greece,9 August 1998
+31602.0,Dominic,Revan,34.0,D,Defender,2.0,Aston Villa,GB-ENG,England,19 September 2000
+131777.0,Jordan,Rhodes,11.0,F,Centre Striker,14.0,Norwich City (previousTeam),GB-SCT,Scotland,5 February 1990
+129749.0,Ricardo Domingos,Barbosa Pereira,21.0,D,Right Full Back,26.0,Leicester City,PT,Portugal,6 October 1993
+42169.0,Declan,Rice,41.0,M,Midfielder,25.0,West Ham United (previousTeam),GB-ENG,England,14 January 1999
+166636.0,Taylor,Richards,,M,Centre Central Midfielder,131.0,Brighton and Hove Albion,GB-ENG,England,4 December 2000
+163170.0,Lewis,Richardson,38.0,M,Midfielder,43.0,Burnley,GB-ENG,England,7 February 2003
+133646.0,Richarlison,de Andrade,7.0,F,Left/Centre/Right Second Striker,7.0,Everton,BR,Brazil,10 May 1997
+133647.0,Diego,Rico,21.0,D,Left Full Back,127.0,Bournemouth,ES,Spain,23 February 1993
+50336.0,Jairo,Riedewald,44.0,M,Centre Central Midfielder,6.0,Crystal Palace,NL,Netherlands,9 September 1996
+30598.0,Matt,Ritchie,11.0,M,Left/Right Winger,23.0,Newcastle United,GB-SCT,Scotland,10 September 1989
+19511.0,Roberto Firmino,Barbosa de Oliveira,9.0,F,Left/Centre/Right Striker,10.0,Liverpool,BR,Brazil,2 October 1991
+166634.0,Haydon,Roberts,58.0,D,Centre Central Defender,131.0,Brighton and Hove Albion,GB-ENG,England,10 May 2002
+50135.0,Andrew,Robertson,26.0,D,Left Full Back,10.0,Liverpool,GB-SCT,Scotland,11 March 1994
+180038.0,Callum,Robinson,47.0,F,Centre Second Striker,36.0,West Bromwich Albion,IE,Ireland,2 February 1995
+132100.0,Roderick Jefferson,Gonçalves Miranda,25.0,D,Centre Central Defender,66.0,Olympiakos,PT,Portugal,30 March 1991
+160158.0,Rodrigo,Hernández Cascante,16.0,M,Centre Central Midfielder,11.0,Manchester City,ES,Spain,22 June 1996
+95187.0,Jay,Rodriguez,19.0,F,Left/Centre/Right Second Striker,43.0,Burnley,GB-ENG,England,29 July 1989
+172639.0,Jack,Rodwell,26.0,M,Central Midfielder,18.0,Sheffield United,GB-ENG,England,11 March 1991
+14012.0,Marcos,Rojo,16.0,D,Left/Centre Full Back,12.0,Manchester United (previousTeam),AR,Argentina,20 March 1990
+179229.0,Jack,Roles,30.0,M,Central Midfielder,136.0,Cambridge United,CY,Cyprus,26 February 1999
+19603.0,Sergio,Romero,22.0,G,Goalkeeper,12.0,Manchester United,AR,Argentina,22 February 1987
+20061.0,Oriol,Romeu,14.0,M,Centre Defensive Midfielder,20.0,Southampton,ES,Spain,24 September 1991
+134799.0,Salomón,Rondón,9.0,F,Centre Striker,23.0,Newcastle United (previousTeam),VE,Venezuela,16 September 1989
+180064.0,Danny,Rose,28.0,D,Left Full Back,23.0,Newcastle United,GB-ENG,England,2 July 1990
+49704.0,Rúben Diogo,da Silva Neves,8.0,M,Centre Central Midfielder,38.0,Wolverhampton Wanderers,PT,Portugal,13 March 1997
+130554.0,Rúben Gonçalo,Silva Nascimento Vinagre,29.0,D,Left Full Back,38.0,Wolverhampton Wanderers,PT,Portugal,9 April 1999
+49702.0,John,Ruddy,21.0,G,Goalkeeper,38.0,Wolverhampton Wanderers,GB-ENG,England,24 October 1986
+162532.0,Antonio,Rüdiger,,D,Centre Central Defender,4.0,Chelsea,DE,Germany,3 March 1993
+131750.0,Rui Pedro,dos Santos Patrício,11.0,G,Goalkeeper,38.0,Wolverhampton Wanderers,PT,Portugal,15 February 1988
+175680.0,Lukas,Rupp,7.0,M,Left/Centre/Right Central Midfielder,14.0,Norwich City,DE,Germany,8 January 1991
+160494.0,Will,Russ,,F,Centre Striker,26.0,Leicester City (previousTeam),GB-WLS,Wales,8 November 2002
+47175.0,Mat,Ryan,1.0,G,Goalkeeper,131.0,Brighton and Hove Albion,AU,Australia,8 April 1992
+162014.0,Kouassi Ryan,Sessegnon,19.0,M,Left/Right Winger,21.0,Tottenham Hotspur,GB-ENG,England,18 May 2000
+160846.0,Allan,Saint-Maximin,10.0,F,Left/Right Winger,23.0,Newcastle United,FR,France,12 March 1997
+35800.0,Romain,Saïss,27.0,M,Centre Defensive Midfielder,38.0,Wolverhampton Wanderers,MA,Morocco,26 March 1990
+53441.0,Henri,Saivet,,M,Midfielder,23.0,Newcastle United (previousTeam),SN,Senegal,26 October 1990
+135654.0,Bukayo,Saka,77.0,F,Left Winger,1.0,Arsenal (previousTeam),GB-ENG,England,5 September 2001
+53278.0,Mamadou,Sakho,12.0,D,Centre Central Defender,6.0,Crystal Palace,FR,France,13 February 1990
+172795.0,Bakary,Sako,26.0,M,Left/Right Winger,6.0,Crystal Palace (previousTeam),ML,Mali,26 April 1988
+160870.0,William,Saliba,4.0,D,Centre Central Defender,250.0,St Etienne,FR,France,24 March 2001
+179281.0,Mbwana,Samatta,20.0,F,Centre Striker,2.0,Aston Villa,TZ,Tanzania,23 December 1992
+184465.0,Austin,Samuels,58.0,F,Forward,38.0,Wolverhampton Wanderers,GB-ENG,England,20 November 2000
+161400.0,Robert,Sánchez,25.0,G,Goalkeeper,177.0,Rochdale,ES,Spain,18 November 1997
+166782.0,Max,Sanders,23.0,M,Centre Central Midfielder,121.0,AFC Wimbledon,GB-ENG,England,4 January 1999
+180225.0,Dion,Sanderson,2.0,D,Defender,46.0,Cardiff City,GB-ENG,England,15 December 1999
+141015.0,Philippe,Sandler,,D,Defender,11.0,Manchester City,NL,Netherlands,10 February 1997
+31063.0,Leroy,Sané,19.0,F,Left/Centre/Right Winger,11.0,Manchester City,DE,Germany,11 January 1996
+55316.0,Matija,Sarkic,31.0,G,Goalkeeper,39.0,Wigan Athletic (previousTeam),ME,Montenegro,23 July 1997
+161990.0,Ismaila,Sarr,23.0,F,Left/Right Winger,33.0,Watford,SN,Senegal,25 February 1998
+167878.0,Christian,Saydee,65.0,M,Centre Central Midfielder,127.0,Bournemouth,GB-ENG,England,10 May 2002
+133749.0,Fabian,Schär,5.0,D,Centre Central Defender,23.0,Newcastle United,CH,Switzerland,20 December 1991
+90688.0,Ezequiel,Schelotto,21.0,D,Defender,131.0,Brighton and Hove Albion,IT,Italy,23 May 1989
+42727.0,Jeffrey,Schlupp,15.0,D,Left Full Back,6.0,Crystal Palace,GH,Ghana,23 December 1992
+11230.0,Kasper,Schmeichel,1.0,G,Goalkeeper,26.0,Leicester City,DK,Denmark,5 November 1986
+42655.0,Morgan,Schneiderlin,18.0,M,Centre Defensive Midfielder,7.0,Everton,FR,France,8 November 1989
+135591.0,Sean,Longstaff,36.0,M,Centre Central Midfielder,23.0,Newcastle United,GB-ENG,England,30 October 1997
+171575.0,Ken,Sema,12.0,M,Right Winger,334.0,Udinese,SE,Sweden,30 September 1993
+162055.0,Joel,Senior,,D,Defender,43.0,Burnley,GB-ENG,England,
+162136.0,Meritan,Shabani,57.0,M,Centre Attacking Midfielder,38.0,Wolverhampton Wanderers,DE,Germany,15 March 1999
+132770.0,Xherdan,Shaqiri,23.0,F,Left/Right Winger,10.0,Liverpool,CH,Switzerland,10 October 1991
+20023.0,Billy,Sharp,10.0,F,Centre Striker,18.0,Sheffield United,GB-ENG,England,5 February 1986
+14011.0,Luke,Shaw,23.0,D,Left Full Back,12.0,Manchester United,GB-ENG,England,12 July 1995
+19695.0,Jonjo,Shelvey,8.0,M,Centre Central Midfielder,23.0,Newcastle United,GB-ENG,England,27 February 1992
+169777.0,Sam,Sherring,50.0,D,Defender,127.0,Bournemouth (previousTeam),GB-ENG,England,8 May 2000
+163558.0,Oluwaseyi,Ojo,11.0,M,Left/Right Winger,351.0,Rangers,GB-ENG,England,19 June 1997
+161548.0,Djibril,Sidibé,19.0,D,Right Full Back,7.0,Everton,FR,France,29 July 1992
+52240.0,Gylfi,Sigurdsson,10.0,M,Left/Centre/Right Attacking Midfielder,7.0,Everton,IS,Iceland,8 September 1989
+53183.0,Jack,Simpson,25.0,D,Centre Central Defender,127.0,Bournemouth,GB-ENG,England,18 December 1996
+135978.0,Josh,Sims,19.0,M,Left/Right Winger,40.0,Reading (previousTeam),GB-ENG,England,28 March 1997
+154787.0,Jerome,Sinclair,9.0,F,Centre Striker,172.0,Oxford United,GB-ENG,England,20 September 1996
+35862.0,Moussa,Sissoko,17.0,M,Left/Centre/Right Attacking Midfielder,21.0,Tottenham Hotspur,FR,France,16 August 1989
+180002.0,Melvin,Sitti,,M,Centre Defensive Midfielder,14.0,Norwich City (previousTeam),FR,France,14 February 2000
+133675.0,Oliver,Skipp,52.0,M,Midfielder,21.0,Tottenham Hotspur (previousTeam),GB-ENG,England,16 September 2000
+144475.0,Callum,Slattery,30.0,M,Centre Central Midfielder,20.0,Southampton (previousTeam),GB-ENG,England,8 February 1999
+135694.0,Islam,Slimani,31.0,F,Striker,270.0,Fenerbahçe,DZ,Algeria,18 June 1988
+90864.0,William,Smallbone,,F,Forward,20.0,Southampton (previousTeam),IE,Ireland,21 February 2000
+163579.0,Chris,Smalling,6.0,D,Centre Central Defender,203.0,Roma,GB-ENG,England,22 November 1989
+139680.0,Matthew,Smith,57.0,D,Defender,1.0,Arsenal,GB-ENG,England,5 October 2000
+175545.0,Emile,Smith Rowe,32.0,M,Left Winger,159.0,Huddersfield Town,GB-ENG,England,28 July 2000
+52974.0,Robert,Snodgrass,7.0,M,Left/Right Attacking Midfielder,2.0,Aston Villa (previousTeam),GB-SCT,Scotland,7 September 1987
+130671.0,Sokratis,Papastathopoulos,5.0,D,Centre Central Defender,1.0,Arsenal,GR,Greece,9 June 1988
+144510.0,Dominic,Solanke,9.0,F,Centre Striker,127.0,Bournemouth,GB-ENG,England,14 September 1997
+20239.0,Heung-Min,Son,7.0,F,Left/Centre/Right Winger,21.0,Tottenham Hotspur,KR,South Korea,8 July 1992
+161404.0,Andreas,Söndergaard,,G,Goalkeeper,38.0,Wolverhampton Wanderers,DK,Denmark,17 January 2001
+166842.0,Elias,Sorensen,31.0,F,Centre Striker,137.0,Carlisle United (previousTeam),DK,Denmark,18 September 1999
+52993.0,Pape,Souaré,,D,Defender,6.0,Crystal Palace,SN,Senegal,6 June 1990
+180035.0,Tomas,Soucek,28.0,M,Centre Defensive Midfielder,25.0,West Ham United,CZ,Czech Republic,27 February 1995
+135250.0,Çaglar,Söyüncü,4.0,D,Centre Central Defender,26.0,Leicester City,TR,Turkey,23 May 1996
+172662.0,Bayli,Spencer-Adams,51.0,D,Central Defender,33.0,Watford,GB-ENG,England,26 June 2001
+21225.0,Julian,Speroni,,G,Goalkeeper,6.0,Crystal Palace,AR,Argentina,18 May 1979
+166637.0,Jack,Spong,,M,Midfielder,131.0,Brighton and Hove Albion,GB-ENG,England,4 February 2002
+93962.0,Dennis,Srbeny,32.0,F,Centre Striker,14.0,Norwich City (previousTeam),DE,Germany,5 May 1994
+160312.0,Jack,Stacey,17.0,D,Right Wing Back,127.0,Bournemouth,GB-ENG,England,6 April 1996
+14289.0,Junior,Stanislas,19.0,M,Left/Right Winger,127.0,Bournemouth,GB-ENG,England,26 November 1989
+175544.0,Richard,Stearman,12.0,D,Centre Central Defender,159.0,Huddersfield Town,GB-ENG,England,19 August 1987
+166336.0,Jason,Steele,,G,Goalkeeper,131.0,Brighton and Hove Albion,GB-ENG,England,18 August 1990
+135709.0,Jed,Steer,21.0,G,Goalkeeper,31.0,Charlton Athletic (previousTeam),GB-ENG,England,23 September 1992
+184428.0,Zack,Steffen,,G,Goalkeeper,11.0,Manchester City,US,United States,2 April 1995
+30618.0,Maarten,Stekelenburg,22.0,G,Goalkeeper,7.0,Everton,NL,Netherlands,22 September 1982
+183161.0,Michael,Stensgaard,,G,Goalkeeper,20.0,Southampton,DK,Denmark,1 September 1974
+10205.0,Dale,Stephens,6.0,M,Centre Central Midfielder,131.0,Brighton and Hove Albion,GB-ENG,England,12 June 1989
+160780.0,Dujon,Sterling,15.0,D,Right Wing Back,39.0,Wigan Athletic (previousTeam),GB-ENG,England,24 October 1999
+94389.0,Jamie,Sterry,32.0,D,Right Full Back,143.0,Crewe Alexandra (previousTeam),GB-ENG,England,21 November 1995
+10046.0,Steve,Cook,3.0,D,Left/Centre/Right Central Defender,127.0,Bournemouth,GB-ENG,England,19 April 1991
+47001.0,Enda,Stevens,3.0,D,Left Full Back,18.0,Sheffield United,IE,Ireland,9 July 1990
+170115.0,Layton,Stewart,97.0,F,Striker,10.0,Liverpool,GB-ENG,England,3 September 2002
+51699.0,Marco,Stiepermann,18.0,M,Centre Central Midfielder,14.0,Norwich City,DE,Germany,9 February 1991
+31291.0,John,Stones,5.0,D,Centre Central Defender,11.0,Manchester City,GB-ENG,England,28 May 1994
+163694.0,Daniel,Sturridge,19.0,F,Centre Striker,116.0,Trabzonspor (previousTeam),GB-ENG,England,1 September 1989
+159863.0,Denis,Suárez,6.0,M,Left/Centre/Right Attacking Midfielder,324.0,Celta de Vigo,ES,Spain,6 January 1994
+14288.0,Andrew,Surman,6.0,M,Centre Central Midfielder,127.0,Bournemouth,GB-ENG,England,20 August 1986
+161396.0,Sam,Surridge,19.0,F,Centre Striker,45.0,Swansea City (previousTeam),GB-ENG,England,28 July 1998
+153285.0,Markus,Suttner,14.0,D,Left Full Back,583.0,Fortuna Düsseldorf,AT,Austria,16 April 1987
+163692.0,Alexander,Sørloth,11.0,F,Centre Striker,116.0,Trabzonspor,NO,Norway,5 December 1995
+135165.0,Japhet,Tanganga,,D,Defender,21.0,Tottenham Hotspur (previousTeam),GB-ENG,England,31 March 1999
+122128.0,Shani,Tarashaj,30.0,F,Centre Striker,355.0,Grasshoppers Zürich,CH,Switzerland,7 February 1995
+160029.0,Matt,Targett,18.0,D,Left Full Back,2.0,Aston Villa,GB-ENG,England,18 September 1995
+18843.0,James,Tarkowski,5.0,D,Centre Central Defender,43.0,Burnley,GB-ENG,England,19 November 1992
+162456.0,Percy,Tau,35.0,F,Centre Striker,232.0,Club Brugge (previousTeam),ZA,South Africa,13 May 1994
+162066.0,Nikola,Tavares,36.0,D,Centre Central Defender,6.0,Crystal Palace,HR,Croatia,17 January 1999
+43133.0,Neil,Taylor,3.0,D,Left Full Back,2.0,Aston Villa,GB-WLS,Wales,7 February 1989
+184255.0,Nathan,Tella,52.0,M,Midfielder,20.0,Southampton,GB-ENG,England,5 July 1999
+6363.0,Alexander,Tettey,27.0,M,Centre Defensive Midfielder,14.0,Norwich City,NO,Norway,4 April 1986
+184282.0,Bobby,Thomas,37.0,D,Defender,43.0,Burnley,GB-ENG,England,30 January 2001
+161560.0,Dominic,Thompson,2.0,D,Left Full Back,130.0,Brentford,GB-ENG,England,26 July 2000
+160314.0,Youri,Tielemans,8.0,M,Centre Central Midfielder,26.0,Leicester City,BE,Belgium,7 May 1997
+166103.0,Kieran,Tierney,3.0,D,Left Full Back,1.0,Arsenal,GB-SCT,Scotland,5 June 1997
+179956.0,Oluwarotimi,Odusina,,D,Defender,156.0,Hartlepool United,GB-ENG,England,28 October 1999
+160675.0,Ayotomiwa,Dele-Bashiru,24.0,M,Centre Central Midfielder,33.0,Watford,NG,Nigeria,17 September 1999
+51519.0,James,Tomkins,5.0,D,Defender,6.0,Crystal Palace (previousTeam),GB-ENG,England,29 March 1989
+135116.0,Fikayo,Tomori,5.0,D,Centre Central Defender,28.0,Derby County (previousTeam),GB-ENG,England,19 December 1997
+153019.0,Antonio,Martínez López,9.0,F,Centre Striker,643.0,Lugo (previousTeam),ES,Spain,30 June 1997
+131752.0,Lucas,Torreira,11.0,M,Centre Central Midfielder,1.0,Arsenal,UY,Uruguay,11 February 1996
+160760.0,Oluwatosin,Adarabioyo,24.0,D,Centre Central Defender,3.0,Blackburn Rovers,GB-ENG,England,24 September 1997
+175528.0,Cenk,Tosun,20.0,F,Centre Striker,6.0,Crystal Palace (previousTeam),TR,Turkey,7 June 1991
+30557.0,Andros,Townsend,10.0,M,Left/Right Winger,6.0,Crystal Palace,GB-ENG,England,16 July 1991
+135191.0,Adama,Traoré,37.0,F,Right Winger,38.0,Wolverhampton Wanderers,ES,Spain,25 January 1996
+136298.0,Mark,Travers,42.0,G,Goalkeeper,127.0,Bournemouth,IE,Ireland,18 May 1999
+160672.0,Mahmoud Ahmed Ibrahim,Hassan,17.0,M,Left/Right Winger,2.0,Aston Villa,EG,Egypt,1 October 1994
+160525.0,Kieran,Trippier,23.0,D,Right Full Back,48.0,Atlético de Madrid,GB-ENG,England,19 September 1990
+159713.0,Leandro,Trossard,11.0,M,Left Winger,131.0,Brighton and Hove Albion,BE,Belgium,4 December 1994
+51690.0,Tom,Trybull,19.0,M,Centre Defensive Midfielder,14.0,Norwich City,DE,Germany,9 March 1993
+14704.0,Aaron,Tshibola,20.0,M,Central Midfielder,167.0,MK Dons (previousTeam),CD,The Democratic Republic Of Congo,2 January 1995
+93957.0,Axel,Tuanzebe,4.0,D,Centre Central Defender,2.0,Aston Villa (previousTeam),GB-ENG,England,14 November 1997
+22423.0,Joe,Tupper,41.0,G,Goalkeeper,6.0,Crystal Palace (previousTeam),GB-ENG,England,15 November 1997
+145089.0,Ike,Ugbo,,F,Centre Striker,4.0,Chelsea (previousTeam),GB-ENG,England,21 September 1998
+94008.0,Calvin,Ughelumba,,D,Left Full Back,26.0,Leicester City (previousTeam),GB-ENG,England,31 December 1999
+168961.0,Leonardo,Ulloa,7.0,F,Centre Striker,633.0,Rayo Vallecano,AR,Argentina,26 July 1986
+25370.0,Luis Antonio,Valencia,25.0,D,Right Full Back,12.0,Manchester United (previousTeam),EC,Ecuador,4 August 1985
+90847.0,Yan,Valery,43.0,D,Right Full Back,20.0,Southampton,FR,France,22 February 1999
+179415.0,Jesús,Vallejo,20.0,D,Centre Central Defender,629.0,Granada CF,ES,Spain,5 January 1997
+23462.0,Patrick,van Aanholt,3.0,D,Left Full Back,6.0,Crystal Palace,NL,Netherlands,29 August 1990
+165276.0,Sepp,van den Berg,,D,Defender,1682.0,Liverpool U19,NL,Netherlands,20 December 2001
+92622.0,Virgil,van Dijk,4.0,D,Centre Central Defender,10.0,Liverpool,NL,Netherlands,8 July 1991
+25789.0,Marco,van Ginkel,10.0,M,Centre Central Midfielder,105.0,PSV (previousTeam),NL,Netherlands,1 December 1992
+11259.0,Jamie,Vardy,9.0,F,Centre Striker,26.0,Leicester City,GB-ENG,England,11 January 1987
+172658.0,Indiana,Vassilev,36.0,F,Centre Striker,2.0,Aston Villa,US,United States,16 February 2001
+162022.0,Michael,Verrips,21.0,G,Goalkeeper,18.0,Sheffield United,NL,Netherlands,3 December 1996
+6505.0,Jan,Vertonghen,5.0,D,Centre Central Defender,21.0,Tottenham Hotspur,BE,Belgium,24 April 1987
+132044.0,Jannik,Vestergaard,4.0,D,Centre Central Defender,20.0,Southampton,DK,Denmark,3 August 1992
+163300.0,Nikola,Vlasic,8.0,M,Centre Attacking Midfielder,54.0,CSKA Moscow,HR,Croatia,4 October 1997
+154427.0,Sam,Vokes,9.0,F,Centre Striker,42.0,Stoke City,GB-WLS,Wales,21 October 1989
+90856.0,Jake,Vokins,57.0,D,Centre Central Defender,20.0,Southampton (previousTeam),GB-ENG,England,17 March 2000
+166315.0,Michel,Vorm,13.0,G,Goalkeeper,21.0,Tottenham Hotspur,NL,Netherlands,20 October 1983
+46933.0,Mario,Vrancic,8.0,M,Centre Central Midfielder,14.0,Norwich City,BA,Bosnia And Herzegovina,23 May 1989
+135169.0,Matej,Vydra,27.0,F,Centre Striker,43.0,Burnley,CZ,Czech Republic,1 May 1992
+93725.0,Theo,Walcott,11.0,F,Centre/Right Second Striker,7.0,Everton,GB-ENG,England,16 March 1989
+50015.0,Kyle,Walker,2.0,D,Right Full Back,11.0,Manchester City,GB-ENG,England,28 May 1990
+180034.0,Kyle,Walker-Peters,24.0,D,Left/Right Full Back,20.0,Southampton,GB-ENG,England,13 April 1997
+136908.0,Jonathan,Walters,39.0,F,Centre Striker,8.0,Ipswich Town (previousTeam),IE,Ireland,20 September 1983
+159994.0,Aaron,Wan-Bissaka,29.0,D,Right Full Back,12.0,Manchester United,GB-ENG,England,26 November 1997
+30554.0,Victor,Wanyama,12.0,M,Centre Defensive Midfielder,21.0,Tottenham Hotspur (previousTeam),KE,Kenya,25 June 1991
+160090.0,Stephen,Ward,3.0,D,Left Full Back,42.0,Stoke City,IE,Ireland,20 August 1985
+6447.0,James,Ward-Prowse,16.0,M,Centre Central Midfielder,20.0,Southampton,GB-ENG,England,1 November 1994
+136919.0,Conor,Washington,39.0,F,Centre Striker,18.0,Sheffield United (previousTeam),GB-NIR,Northern Ireland,18 May 1992
+172433.0,Elliot,Watt,12.0,M,Central Midfielder,137.0,Carlisle United,GB-SCT,Scotland,11 March 2000
+179994.0,Kelland,Watts,15.0,M,Centre Central Midfielder,165.0,Mansfield Town (previousTeam),GB-ENG,England,3 November 1999
+160892.0,Adam,Webster,15.0,D,Centre Central Defender,131.0,Brighton and Hove Albion,GB-ENG,England,4 January 1995
+161550.0,Danny,Welbeck,10.0,F,Centre Striker,33.0,Watford,GB-ENG,England,26 November 1990
+180235.0,Nahki,Wells,21.0,F,Centre Striker,132.0,Bristol City,BM,Bermuda,1 June 1990
+159689.0,Wesley,Moraes Ferreira da Silva,9.0,F,Centre Striker,2.0,Aston Villa,BR,Brazil,26 November 1996
+42970.0,Ashley,Westwood,18.0,M,Centre Central Midfielder,43.0,Burnley,GB-ENG,England,1 April 1990
+179734.0,Glenn,Whelan,12.0,M,Centre Defensive Midfielder,151.0,Fleetwood Town,IE,Ireland,13 January 1984
+160063.0,Ben,White,5.0,D,Centre Central Defender,9.0,Leeds United,GB-ENG,England,8 October 1997
+90970.0,Alfie,Whiteman,,G,Goalkeeper,21.0,Tottenham Hotspur,GB-ENG,England,2 October 1998
+180200.0,Connor,Wickham,19.0,F,Centre Striker,19.0,Sheffield Wednesday,GB-ENG,England,31 March 1993
+31015.0,Georginio,Wijnaldum,5.0,M,Left/Centre/Right Attacking Midfielder,10.0,Liverpool,NL,Netherlands,11 November 1990
+133132.0,Yanic,Wildschut,30.0,F,Left/Centre Second Striker,27.0,Bolton Wanderers,NL,Netherlands,1 November 1991
+42220.0,Onyinye Wilfred,Ndidi,25.0,M,Centre Central Midfielder,26.0,Leicester City,NG,Nigeria,16 December 1996
+160845.0,Jetro,Willems,15.0,D,Left Full Back,23.0,Newcastle United (previousTeam),NL,Netherlands,30 March 1994
+144528.0,Jonathan,Williams,7.0,M,Left/Centre/Right Attacking Midfielder,31.0,Charlton Athletic,GB-WLS,Wales,9 October 1993
+6623.0,Willian,Borges Da Silva,10.0,F,Left/Centre/Right Winger,4.0,Chelsea,BR,Brazil,9 August 1988
+21858.0,Joseph,Willock,69.0,M,Centre Central Midfielder,1.0,Arsenal (previousTeam),GB-ENG,England,20 August 1999
+160687.0,Ben,Wilmot,20.0,D,Centre Central Defender,45.0,Swansea City,GB-ENG,England,4 November 1999
+131690.0,Jack,Wilshere,19.0,M,Centre Central Midfielder,25.0,West Ham United,GB-ENG,England,1 January 1992
+90987.0,Harry,Winks,,M,Centre Central Midfielder,21.0,Tottenham Hotspur,GB-ENG,England,2 February 1996
+170106.0,Ben,Winterbottom,63.0,G,Goalkeeper,10.0,Liverpool,GB-ENG,England,16 July 2001
+166329.0,Henry,Wise,46.0,M,Midfielder,33.0,Watford,GB-ENG,England,1 January 2000
+52277.0,Chris,Wood,9.0,F,Centre Striker,43.0,Burnley,NZ,New Zealand,7 December 1991
+161199.0,Ben,Woodburn,10.0,M,Left/Centre/Right Winger,172.0,Oxford United (previousTeam),GB-WLS,Wales,15 October 1999
+160779.0,Freddie,Woodman,27.0,G,Goalkeeper,45.0,Swansea City,GB-ENG,England,4 March 1997
+21236.0,Sam,Woods,35.0,D,Centre Central Defender,6.0,Crystal Palace (previousTeam),GB-ENG,England,11 September 1998
+160569.0,Callum,Wright,22.0,M,Midfielder,26.0,Leicester City (previousTeam),GB-ENG,England,2 May 2000
+143600.0,Alexandre Nascimento,Costa Silva,32.0,F,Left Winger,25.0,West Ham United (previousTeam),PT,Portugal,16 March 1997
+26145.0,Granit,Xhaka,34.0,M,Centre Central Midfielder,1.0,Arsenal,CH,Switzerland,27 September 1992
+162115.0,Romaric,Yapi,,D,Right Full Back,131.0,Brighton and Hove Albion (previousTeam),FR,France,13 July 2000
+131781.0,Andriy,Yarmolenko,7.0,F,Left/Right Winger,25.0,West Ham United,UA,Ukraine,23 October 1989
+33511.0,DeAndre,Yedlin,22.0,D,Right Full Back,23.0,Newcastle United,US,United States,9 July 1993
+6431.0,Maya,Yoshida,3.0,D,Centre Central Defender,20.0,Southampton (previousTeam),JP,Japan,24 August 1988
+179348.0,Ashley,Young,15.0,D,Left/Right Wing Back,241.0,Internazionale,GB-ENG,England,9 July 1985
+47197.0,Pablo,Zabaleta,5.0,D,Right Full Back,25.0,West Ham United (previousTeam),AR,Argentina,16 January 1985
+13935.0,Wilfried,Zaha,11.0,F,Left/Centre/Right Winger,6.0,Crystal Palace,CI,Cote D'Ivoire,10 November 1992
+180240.0,Davide,Zappacosta,2.0,D,Right Full Back,203.0,Roma,IT,Italy,11 June 1992
+145175.0,Marvin,Zeegelaar,90.0,D,Left Full Back,334.0,Udinese,NL,Netherlands,12 August 1990
+166675.0,Jordan,Zemura,,D,Defender,127.0,Bournemouth (previousTeam),GB-ENG,England,
+145348.0,Karlo,Ziger,,G,Goalkeeper,4.0,Chelsea (previousTeam),HR,Croatia,11 May 2001
+46991.0,Christoph,Zimmermann,6.0,D,Centre Central Defender,14.0,Norwich City,DE,Germany,12 January 1993
+34626.0,Oleksandr,Zinchenko,25.0,M,Centre Attacking Midfielder,105.0,PSV (previousTeam),UA,Ukraine,15 December 1996
+180123.0,Richairo,Zivkovic,30.0,F,Centre Striker,18.0,Sheffield United,NL,Netherlands,5 September 1996
+162387.0,Nabili,Zoubdi Touaizi,51.0,F,Forward,11.0,Manchester City (previousTeam),ES,Spain,1 February 2001
+181420.0,Kurt,Zouma,5.0,D,Centre Central Defender,7.0,Everton (previousTeam),FR,France,27 October 1994
