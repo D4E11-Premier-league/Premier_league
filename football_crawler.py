@@ -1,39 +1,37 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 30 19:53:31 2020
 
+@author: Tung Linh
+"""
 import requests
 import pandas as pd
 import json
 from functools import reduce
-import time
 
-attributes = {
-    'general' : ['goals','goal_assist','appearances','mins_played','yellow_card','red_card','total_sub_on','total_sub_off'],
-    'attack' : ['total_scoring_att', 'ontarget_scoring_att', 'hit_woodwork', 'att_hd_goal', 'att_pen_goal', 'att_freekick_goal', 'total_offside', 'touches', 'total_pass', 'total_through_ball', 'total_cross', 'corner_taken'],
-    'defence' : ['outfielder_block','interception','total_tackle','last_man_tackle','total_clearance','head_clearance','aerial_won','own_goals','error_lead_to_goal','penalty_conceded','fouls','aerial_lost'],
-    'goalkeeper' : ['clean_sheet','goals_conceded','saves','penalty_save','punches','total_high_claim','total_keeper_sweeper','keeper_throws','goal_kicks']
-}
+criteria = [
+    'goals',
+    'goal_assist',
+    'appearances',
+    'mins_played',
+    'yellow_card',
+    'red_card',
+    'total_sub_on',
+    'total_sub_off'
+    ]
+season_num = [274,210,79,54,42,27,22,21,20,19,18,17,16,15,14,13,12,11,10]
+x = 0 #season_num
+page_size = 1000
+page_num = 0
 
-folder_path = 'C:/Users/Tung Linh/Desktop/D4E'
-
-
-def flatten(d): # chép được đoạn code dùng recursion hay lắm, dùng để làm phẳng mấy cái nested dict
-    out = {}
-    for key, val in d.items():
-        if isinstance(val, dict):
-            val = [val]
-        if isinstance(val, list):
-            for subdict in val:
-                deeper = flatten(subdict).items()
-                out.update({key + '_' + key2: val2 for key2, val2 in deeper})
-        else:
-            out[key] = val
-    return out
-
-def surfing_the_web(crit,page_size=1000):
-    url = f'https://footballapi.pulselive.com/football/stats/ranked/players/{criteria}?page=0&pageSize={page_size}&compSeasons=274&comps=1&compCodeForActivePlayer=EN_PR&altIds=true'
+# general information:
+for y in range(1):
+    l = []
+    url = f'https://footballapi.pulselive.com/football/stats/ranked/players/{criteria[y]}?page={page_num}&pageSize={page_size}&compSeasons={season_num[x]}&comps=1&compCodeForActivePlayer=EN_PR&altIds=true'
     headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/85.0.134 Chrome/79.0.3945.134 Safari/537.36',
               'authority': 'footballapi.pulselive.com',
               'method': 'GET',
-              'path': f'/football/stats/ranked/players/{criteria}?page=0&pageSize={page_size}&compSeasons=274&comps=1&compCodeForActivePlayer=EN_PR&altIds=true',
+              'path': f'/football/stats/ranked/players/{criteria[y]}?page={page_num}&pageSize={page_size}&compSeasons={season_num[x]}&comps=1&compCodeForActivePlayer=EN_PR&altIds=true',
               'scheme': 'https',
               'accept': '*/*',
               'accept-encoding': 'gzip, deflate, br',
@@ -44,27 +42,91 @@ def surfing_the_web(crit,page_size=1000):
               'sec-fetch-mode': 'cors',
               'sec-fetch-site': 'cross-site'}
     r = requests.get(url,headers = headers)
+    print(f'crawling {criteria[y]} done!')
     data = json.loads(r.text)
-    return data
+    for i in range(len(data['stats']['content'])):
+        l.append([data['stats']['content'][i]['owner']['playerId'],data['stats']['content'][i]['value']])
+    exec(f"{criteria[y]} = pd.DataFrame(l,columns = ['player_id','{criteria[y]}'])")
+# =============================================================================
+# general = [goals,goal_assist,appearances,mins_played,yellow_card,red_card,total_sub_on,total_sub_off]
+# general = reduce(lambda x, y: pd.merge(x, y, left_on = 'player_id',right_on = 'player_id', how = 'outer'), general)
+# general = general.fillna(0)
+# general.to_csv('C:/Users/Tung Linh/Desktop/D4E/general.csv',index = False)
+# =============================================================================
 
-playersInfo = []
-for key in attributes:
-    for y in range(len(attributes[key])):
-        t = time.process_time()
-        criteria = attributes[key][y]
-        l = []
-        data  = surfing_the_web(criteria)
-        for i in range(len(data['stats']['content'])):
-            l.append([data['stats']['content'][i]['owner']['playerId'],data['stats']['content'][i]['value']])
-            player = flatten(data['stats']['content'][i]['owner'])
-            playersInfo.append(player)
-        exec(f"{criteria} = pd.DataFrame(l,columns = ['player_id','{criteria}'])")
-        print(f'crawling {key} {attributes[key][y]} in',round(time.process_time()-t,2),'s')
-    df = [eval(x) for x in attributes[key]]
-    df = reduce(lambda x, y: pd.merge(x, y, left_on = 'player_id',right_on = 'player_id', how = 'outer'), df).fillna(0)
-    exec(f'{key}=df')
-    df.to_csv(f'{folder_path}//{key}_data.csv',index = False)
+# player information
+page_size = 30
+page_num = 49
+l = []
+for num in range(page_num):
+    url = f'https://footballapi.pulselive.com/football/players?pageSize={page_size}&compSeasons=274&altIds=true&page={num}&type=player&id=-1&compSeasonId=274'
+    headers = {
+        'authority': 'footballapi.pulselive.com',
+        'method': 'GET',
+        'path': f'/football/players?pageSize={page_size}&compSeasons=274&altIds=true&page={num}&type=player&id=-1&compSeasonId=274',
+        'scheme': 'https',
+        'accept': '*/*',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7',
+        'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        'origin': 'https://www.premierleague.com',
+        'referer': 'https://www.premierleague.com/players',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'cross-site',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/85.0.134 Chrome/79.0.3945.134 Safari/537.36'
+        }
+    
+    r = requests.get(url,headers = headers)
+    print(f'crawling players page {num} done!')
+    data = json.loads(r.text)
+    print(len(data['content']))
+    for i in range(len(data['content'])):
+        place = None
+        shirtNum = None
+        date = None
+        nationalId = None
+        national = None
+        country = None
+        if 'currentTeam' in data['content'][i]:
+            clubId = data['content'][i]['currentTeam']['club']['id']
+            clubName = data['content'][i]['currentTeam']['club']['name']
+        else:
+            clubId = data['content'][i]['previousTeam']['club']['id']
+            clubName = data['content'][i]['previousTeam']['club']['name'] + ' (previousTeam)'
+        if 'shirtNum' in data['content'][i]['info']:
+            shirtNum = data['content'][i]['info']['shirtNum']
+        if 'date' in data['content'][i]['birth']:
+            date = data['content'][i]['birth']['date']['label']
+        if 'country' in data['content'][i]['nationalTeam']:
+            national = data['content'][i]['nationalTeam']['country']
+        if 'isoCode' in data['content'][i]['nationalTeam']:
+            nationalId = data['content'][i]['nationalTeam']['isoCode']
+        l.append([
+         data['content'][i]['playerId'],
+         data['content'][i]['name']['first'],
+         data['content'][i]['name']['last'],
+         shirtNum,
+         data['content'][i]['info']['position'],
+         data['content'][i]['info']['positionInfo'],
+         clubId,
+         clubName,
+         nationalId,
+         national,
+         date
+         ])
 
-playersInfo = pd.DataFrame(playersInfo).drop_duplicates('playerId')
-playersInfo.to_csv(f'{folder_path}/playersInfo.csv',index = False)
-
+col = [
+ 'playerId',
+ 'first_name',
+ 'last_name',
+ 'shirtNum',
+ 'position',
+ 'positionInfo',
+ 'teamId',
+ 'teamName',
+ 'nationalTeamId',
+ 'nationalTeamName',
+ 'birthDate'
+ ]
+playersInfo = pd.DataFrame(l, columns = col)
+playersInfo.to_csv('C:/Users/Tung Linh/Desktop/D4E/playersInfo.csv',index = False)
