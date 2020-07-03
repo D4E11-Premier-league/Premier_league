@@ -5,9 +5,9 @@ import os
 l = []
 
 # personal config
-file_path = 'C:/Users/Tung Linh/Desktop/D4E_premier_league/dữ liệu cập nhật lại' #'your git folder path'
-user = 'root' #"your username"
-pw = 'Nsi668888' #"your password"
+file_path = '' #'your git folder path'
+user = '' #"your username"
+pw = '' #"your password"
 
 # create sql engine
 client = pymysql.connect(

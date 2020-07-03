@@ -12,7 +12,7 @@ attributes = {
     'goalkeeper' : ['clean_sheet','goals_conceded','saves','penalty_save','punches','total_high_claim','total_keeper_sweeper','keeper_throws','goal_kicks']
 }
 
-folder_path = 'C:/Users/Tung Linh/Desktop/D4E_premier_league/dữ liệu cập nhật lại'
+folder_path = '' #'your git folder path'
 
 
 def flatten(d): # full stackoverflow được đoạn code dùng recursion hay lắm, dùng để làm phẳng mấy cái nested dict
@@ -69,18 +69,21 @@ playersInfo = pd.DataFrame(playersInfo).drop_duplicates('playerId').reset_index(
 
 col = ['nationalTeam_demonym','active','birth_date_millis', 'currentTeam_club_name','currentTeam_club_abbr', 'currentTeam_teamType','currentTeam_shortName', 'currentTeam_id', 'currentTeam_altIds_opta','birth_country_demonym', 'birth_place', 'age', 'name_first', 'name_last', 'id', 'altIds_opta', 'name_middle']
 playersInfo = playersInfo.drop(columns = col)
+
 col = ['playerId', 'info_shirtNum','info_loan', 'nationalTeam_isoCode', 'nationalTeam_country','currentTeam_name', 'currentTeam_club_id', 'birth_date_label', 'birth_country_isoCode','birth_country_country', 'name_display']
 position = playersInfo.drop(columns = col).drop_duplicates('info_positionInfo').reset_index(drop = True)
 col = ['playerId', 'info_position', 'info_shirtNum', 'info_positionInfo','info_loan', 'nationalTeam_isoCode', 'nationalTeam_country','birth_date_label', 'birth_country_isoCode','birth_country_country', 'name_display']
 club = playersInfo.drop(columns = col).drop_duplicates('currentTeam_club_id').reset_index(drop = True)
 col = ['playerId', 'info_position', 'info_shirtNum', 'info_positionInfo','info_loan', 'nationalTeam_isoCode', 'nationalTeam_country','currentTeam_name', 'currentTeam_club_id', 'birth_date_label', 'name_display']
 birth_country = playersInfo.drop(columns = col).drop_duplicates('birth_country_isoCode').reset_index(drop = True)
+birth_country.columns = ['country_code','country_name']
 col = ['playerId', 'info_position', 'info_shirtNum', 'info_positionInfo','info_loan','currentTeam_name', 'currentTeam_club_id', 'birth_date_label','birth_country_isoCode', 'birth_country_country', 'name_display']
-nationalTeam = birth_country = playersInfo.drop(columns = col).drop_duplicates('nationalTeam_isoCode').reset_index(drop = True)
+nationalTeam = playersInfo.drop(columns = col).drop_duplicates('nationalTeam_isoCode').reset_index(drop = True)
+nationalTeam.columns = ['country_code','country_name']
+country = pd.concat([birth_country,nationalTeam]).drop_duplicates('country_code')
 playersInfo = playersInfo.drop(columns = ['info_position','nationalTeam_country','currentTeam_name', 'birth_country_country'])
 
 position.to_csv(f'{folder_path}/position.csv',index = False)
 club.to_csv(f'{folder_path}/club.csv',index = False)
-birth_country.to_csv(f'{folder_path}/birth_country.csv',index = False)
-nationalTeam.to_csv(f'{folder_path}/nationalTeam.csv',index = False)
-playersInfo.to_csv(f'{folder_path}/playersInfo.csv',index = False)
+country.to_csv(f'{folder_path}/country.csv',index = False)
+playersInfo.to_csv(f'{folder_path}/players_info.csv',index = False)

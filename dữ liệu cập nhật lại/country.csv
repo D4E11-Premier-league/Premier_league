@@ -1,32 +1,30 @@
-nationalTeam_isoCode,nationalTeam_country
-GA,Gabon
+country_code,country_name
+FR,France
 GB-ENG,England
 EG,Egypt
 AR,Argentina
 MX,Mexico
 SN,Senegal
-FR,France
+JM,Jamaica
 BR,Brazil
 BE,Belgium
 FI,Finland
 NZ,New Zealand
-GH,Ghana
-DZ,Algeria
 KR,South Korea
 ES,Spain
 US,United States
 GB-WLS,Wales
 PT,Portugal
 GB-SCT,Scotland
-CI,Cote D'Ivoire
 IE,Ireland
 NL,Netherlands
-IT,Italy
 NG,Nigeria
 NO,Norway
-UA,Ukraine
+RU,Russia
 PY,Paraguay
-RS,Serbia
+YU,Yugoslavia
+CI,Cote D'Ivoire
+IT,Italy
 ML,Mali
 DK,Denmark
 DE,Germany
@@ -34,30 +32,41 @@ IR,Iran
 CO,Colombia
 AU,Australia
 GR,Greece
-MA,Morocco
 CH,Switzerland
 IS,Iceland
-TR,Turkey
 CZ,Czech Republic
 RO,Romania
 PL,Poland
+CD,The Democratic Republic Of Congo
 GB-NIR,Northern Ireland
 CU,Cuba
 GN,Guinea
-HR,Croatia
 AT,Austria
 SE,Sweden
-CM,Cameroon
+MA,Morocco
 TZ,Tanzania
+XK,Kosovo
+TR,Turkey
+CA,Canada
 UY,Uruguay
+HR,Croatia
+GH,Ghana
+SL,Sierra Leone
 BA,Bosnia And Herzegovina
-CD,The Democratic Republic Of Congo
 SK,Slovakia
 ZW,Zimbabwe
-JM,Jamaica
+UA,Ukraine
+CM,Cameroon
 JP,Japan
+ST,Sao Tome And Principe
+ZA,South Africa
 CL,Chile
-GP,Guadeloupe
+GW,Guinea-Bissau
+CW,Curacao
 AM,Armenia
 KE,Kenya
 AL,Albania
+GA,Gabon
+DZ,Algeria
+RS,Serbia
+GP,Guadeloupe
