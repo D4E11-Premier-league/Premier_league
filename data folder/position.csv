@@ -1,0 +1,44 @@
+index,positionCategory,position
+0,F,Centre Striker
+1,F,Left/Centre/Right Winger
+2,F,Left/Right Winger
+3,F,Left/Centre Second Striker
+4,F,Forward
+5,F,Left/Centre/Right Second Striker
+6,M,Left/Centre/Right Attacking Midfielder
+7,M,Central Midfielder
+8,F,Left/Centre/Right Striker
+9,M,Winger
+10,F,Centre/Right Striker
+11,M,Left Winger
+12,M,Centre Central Midfielder
+13,M,Centre Attacking Midfielder
+14,F,Right Winger
+15,M,Left/Right Attacking Midfielder
+16,M,Left/Centre Attacking Midfielder
+17,D,Left Full Back
+18,D,Left/Right Full Back
+19,F,Centre/Right Attacking Midfielder
+20,F,Centre/Right Second Striker
+21,D,Centre Central Defender
+22,D,Right Full Back
+23,D,Full Back
+24,D,Defender
+25,M,Centre/Right Central Midfielder
+26,M,Midfielder
+27,M,Left/Centre/Right Central Midfielder
+28,D,Left/Centre Central Defender
+29,D,Central Defender
+30,M,Centre Defensive Midfielder
+31,D,Centre/Right Central Defender
+32,D,Right Wing Back
+33,F,Striker
+34,D,Left/Centre/Right Central Defender
+35,D,Left Wing Back
+36,F,Centre Second Striker
+37,G,Goalkeeper
+38,M,Left Attacking Midfielder
+39,M,Attacking Midfielder
+40,M,Left/Centre Central Midfielder
+41,D,Left/Right Wing Back
+42,D,Centre/Right Full Back
