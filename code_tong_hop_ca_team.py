@@ -63,7 +63,7 @@ for key in attributes:
     df = [eval(x) for x in attributes[key]]
     df = reduce(lambda x, y: pd.merge(x, y, left_on = 'player_id',right_on = 'player_id', how = 'outer'), df).fillna(0)
     exec(f'{key}=df')
-    df.to_csv(f'{folder_path}//{key}_data.csv',index = False)
+    df.to_csv(f'{folder_path}/{key}_data.csv',index = False)
 
 playersInfo = pd.DataFrame(playersInfo).drop_duplicates('playerId').reset_index(drop = True)
 
