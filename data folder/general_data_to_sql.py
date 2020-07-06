@@ -3,7 +3,7 @@ import pandas as pd
 mysql_client = pymysql.connect(
     host = 'localhost',
     user = 'root',
-    password = #YourPassword, 
+    password = '*****', #your password
     cursorclass = pymysql.cursors.DictCursor
 )
 
@@ -17,7 +17,7 @@ cursor.execute('CREATE DATABASE IF NOT EXISTS premier_league')
 
 cursor.execute('''
         CREATE TABLE IF NOT EXISTS premier_league.general_data (
-                playerId VARCHAR(255) PRIMARY KEY,
+                playerId INT(11) PRIMARY KEY,
                 goals INT(11),
                 goalAssist INT(11),
                 appearances INT(11),
@@ -25,7 +25,8 @@ cursor.execute('''
                 yellowCard INT(11),
                 redCard INT(11),
                 totalSubOn INT(11),
-                totalSubOff INT(11)
+                totalSubOff INT(11),
+                FOREIGN KEY(playerId) REFERENCES premier_league.players_info(playerId)
                 )
         ''')
 for i in range(len(table)):

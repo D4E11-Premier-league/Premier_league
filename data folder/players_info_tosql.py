@@ -2,9 +2,9 @@ import pymysql
 import pandas as pd
 
 # personal config
-file_path = 'C:/Users/Tung Linh/Desktop/D4E_premier_league/data folder' #'your git folder path'
+file_path = 'C:/Users/andyv/OneDrive/Máy tính/D4E11/epl-project/Premier_league/data folder' #'your git folder path'
 user = 'root' #"your username"
-pw = 'Nsi668888' #"your password"
+pw = '****' #"your password"
 
 # create sql engine
 client = pymysql.connect(
