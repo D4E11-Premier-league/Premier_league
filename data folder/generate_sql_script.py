@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = 'C:/Users/andyv/OneDrive/Máy tính/D4E11/epl-project/Premier_league/data folder' #'your git folder path'
+file_path = 'C:/Users/Tung Linh/Desktop/D4E_premier_league/data folder' #'your git folder path'
 
 db_name = 'premier_league'
 table_name = 'defence_data'

@@ -3,13 +3,13 @@ import pandas as pd
 mysql_client = pymysql.connect(
     host = 'localhost',
     user = 'root',
-    password = '*****', #your password 
+    password = '', #your password 
     cursorclass = pymysql.cursors.DictCursor
 )
 
 cursor = mysql_client.cursor()
 
-file_path = "C:/Users/andyv/OneDrive/Máy tính/D4E11/epl-project/Premier_league/data folder" #yourPath
+file_path = '' #yourPath
 table_name = 'goalkeeper_data'
 table = pd.read_csv(f'{file_path}/{table_name}.csv')
 
