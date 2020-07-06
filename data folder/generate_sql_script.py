@@ -1,11 +1,9 @@
 import pandas as pd
 
-file_path = 'C:/Users/Tung Linh/Desktop/D4E_premier_league/data folder' #'your git folder path'
-user = 'root' #"your username"
-pw = 'Nsi668888' #"your password"
+file_path = 'C:/Users/andyv/OneDrive/Máy tính/D4E11/epl-project/Premier_league/data folder' #'your git folder path'
 
 db_name = 'premier_league'
-table_name = 'players_info'
+table_name = 'defence_data'
 table = pd.read_csv(f'{file_path}/{table_name}.csv')
 
 cols = list(table.columns)
@@ -42,7 +40,7 @@ def insert_table_script (db_name = db_name,table_name = table_name,cols = cols):
             print("\t\t\t{table['"+cols[col]+"'][i]},")
     print("\t\t\t);")
     print("\t\t''')")
-    print("client.commit()")
+    print("mysql_client.commit()")
 
 generate_db_script()
 generate_table_script()
