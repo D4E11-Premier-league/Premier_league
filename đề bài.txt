@@ -1,0 +1,36 @@
+Tấn công:
+•	Cầu thủ nào sút nhiều nhất? Sút trúng đích nhiều nhất? Có tỉ lệ sút trúng đích cao nhất?
+•	Cầu thủ nào có nhiều bàn thắng nhất? Tỉ lệ bàn thắng/số sút trúng đích cao nhất? Số bàn thắng  có tỉ lệ với số cú sút không? 
+•	Số bàn thắng có ảnh hưởng thế nào đến vị trí của đội bóng?
+•	Đội nào tạt bóng nhiều nhất? Đội nào đá phạt góc nhiều nhất? Đội nào ghi bàn bằng đánh đầu nhiều nhất? Bàn thắng từ đánh đầu có tỉ lệ với số lượng tạt bóng, phạt góc không?
+•	Cầu thủ nào ghi bàn bằng đầu nhiều nhất? Có tỉ lệ với chiều cao cầu thủ không?
+•	Cầu thủ nào chạm bóng nhiều nhất ? Số lượng chạm bóng nhiều có đồng nghĩa với đóng góp vào lối chơi nhiều không (đánh giá số đường chuyền, cản phá, sút bóng, tạt,…)
+•	Cầu thủ chọc khe nhiều nhất? Cầu thủ có số lượng kiến tạo nhiều nhất? Chọc khe nhiều có đồng nghĩa với việc có nhiều kiến tạo hay không? Những yếu tố gì có thể ảnh hưởng?
+•	Đội nào chuyền bóng nhiều nhất? Ảnh hưởng thế nào đến thứ hạng của đội? Những đội xếp trên bảng xếp hạng có chỉ số chuyền bóng thế nào so với những đội xếp dưới?
+
+Phòng ngự:
+•	Cầu thủ nào phạm nhiều lỗi nhất? Số lượng lần phạm lỗi có đồng nghĩa với nhiều thẻ vâng và thẻ đỏ không?
+•	Cầu thủ nào phá bóng bằng đầu nhiều nhất? Điều này có tỉ lệ với chiều cao của cầu thủ hay không?
+•	Cầu thủ nào có nhiều blocks(cản phá cú sút nhất) ? Trung vệ có chỉ số này cao có đồng nghĩa với đội bóng có hàng thủ mạnh(ít thủng lưới) không?
+•	Đội bóng thủng lưới ít nhất, nhiều nhất? Điều này ảnh hưởng thế nào đến thành tích của đội? 
+•	Đội nào toàn diện nhất( số bàn thắng/ số thủng lưới lớn nhất)? Có ảnh hưởng đến thành tích của đội không?
+•	Đội nào có hàng thủ mắc nhiều lỗi dẫn đến bàn thua nhất? Điều này có tỉ lệ với tổng số bàn thua của đội không?
+•	Đội nào chơi rắn nhất(phạm nhiều lỗi nhất, thẻ vâng thẻ đỏ nhiều) ? Có tỉ lệ với số lượng xoạc bóng không? Cầu thủ nào xoạc bóng nhiều nhất? Những đội chơi rắn là đội top trên BXH hay top dưới? 
+•	Đội nào có số lượng clearence(phá bóng) nhiều nhất? Đội phá bóng nhiều có lối chơi bóng ngắn(chuyền bóng- passes nhiều) hay bóng dài(long-passes nhiều)
+
+Thủ môn:
+•	Thủ môn nào cứu thua nhiều nhất? Số lần cứu thua nhiều có ám chỉ là thủng lưới ít không?
+•	Thủ môn nào hay đá quét(Sweeper) nhất? Có ảnh hưởng đến số bàn thua phải nhận không?
+•	Thủ môn nào hay đấm bóng nhất? Có bị ảnh hưởng từ chiều cao của hàng thủ phía trước không? Có bị ảnh hưởng từ chiều cao của thủ môn hay không?
+•	Thủ môn thức hiện goal kicks nhiều nhất? Đội bóng của thủ môn này chơi bóng ngắn(chuyền bóng- passes nhiều) hay bóng dài(long-passes nhiều)?
+•	Thủ môn nào chuyền bóng ngắn nhiều nhất? Ném bóng nhiều nhất? Đội bóng của thủ môn này chơi bóng ngắn(chuyền bóng- passes nhiều) hay bóng dài(long-passes nhiều)?
+•	Rút ra kết luận về lối chơi của thủ môn với đội chơi bóng ngắn và bóng dài 
+
+Đội bóng:
+•	Số điểm trung bình kiếm được đến thời điểm hiện tại ? 
+•	Đội nào đá sân nhà tốt nhất? Sân khách tốt nhất? Kiếm được trung bình bn điểm sân nhà, sân khách? Từ đó dự đoán số điểm của các đội vào cuối mùa, suy ra 3 đội có khả năng xuống hạng nhất( 3 đội xếp chót) 
+•	Đội bóng nào có nhiều cầu thủ bản địa(quốc tịch Anh) nhất? Ảnh hưởng thế nào đến kết quả đội?
+•	Đội bóng nào có tuổi trung bình già nhất, trẻ nhất? Ảnh hưởng thế nào đến kết quả của đội?
+•	Đội bóng nào có nhiều cầu thủ không phải từ vương quốc Anh(UK,Scotland,Ireland,Wales,..) nhất? Ảnh hưởng thế nào đến kết quả của đội?
+•	Đội bóng nào có cầu thủ đa dạng nhất(nhiều quốc tịch nhất)?Ảnh hưởng thế nào đến kết quả thi đấu?
+•	Đội bóng nào có sức chứa sân nhà lớn nhất? Điều này có ảnh hưởng tốt hay xấu đến thành tích sân nhà?
