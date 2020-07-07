@@ -1,0 +1,28 @@
+Dự đoán kết quả thắng/thua giữa 2 đội 
+- General:
+	Average goal/conceded 
+	% Home win/lost
+	% Away win/lost
+	% Possesion
+
+- Attack:
+	goals/per 90 minutes of main goal-scorer
+	cross/per 90 minutes 
+	pass/per 90 minutes
+	touch/per 90 mins 
+	penGoals
+
+- Defence:
+	blocks/per 90 minutes
+	interceptions/per 90 minutes
+	tackles/per 90 mins
+	headClearance/per 90 mins 
+	aerial won/ total aerial battle 
+	errorLeadToGoal/per 90 mins 
+
+-GK:
+	avg_cleansheet = cleanSheet/total match 
+	goals conceded/per 90 mins
+	saves/ per 90 mins 
+	punches/ per 90 mins 
+	penSave
