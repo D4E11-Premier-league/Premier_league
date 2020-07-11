@@ -1,0 +1,9 @@
+TotalMatch = sum('premier_league club_info'[awayDraws]) + sum('premier_league club_info'[awayLoses]) + sum( 'premier_league club_info'[awayWins]) + sum('premier_league club_info'[homeDraws]) + sum('premier_league club_info'[homeLoses]) + sum('premier_league club_info'[homeWins])
+
+PercentOfAerialWon = SUM('premier_league defence_data'[aerialWon])*100 / (SUM('premier_league defence_data'[aerialWon]) + SUM('premier_league defence_data'[aerialLost]))
+
+avgInterception = SUM('premier_league defence_data'[interception]) / [TotalMatch]
+
+avgClearance = SUM('premier_league defence_data'[totalClearance]) / [TotalMatch]
+
+avgBlock = SUM('premier_league defence_data'[outfielderBlock]) / [TotalMatch]
